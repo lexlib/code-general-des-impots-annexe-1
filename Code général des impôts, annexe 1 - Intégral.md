@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1985-07-12
+Version Consolidée au 1985-07-15
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 23 V 1 à 310 undecies)](#1)
     - [IMPOTS D'ETAT (art. 23 V 1 à 255)](#2)
@@ -1839,6 +1839,32 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
+###### Article 305 AD
+
+Toute personne responsable d'un accident causé par un véhicule étranger et dont la responsabilité n'est pas garantie par une
+assurance dans les conditions définies aux articles R. 211-1 et suivants du code des assurances est tenue au paiement de la
+contribution prévue à l'article 305 AA-2°.
+
+Lorsque l'accident a été causé par un véhicule appartenant à un Etat étranger pour lequel a été fournie l'attestation prévue
+à l'article R. 211-25 du code précité, la contribution est fixée dans les mêmes conditions que pour les véhicules appartenant
+à l'Etat français.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN1 305 AA 2°
+  - Code des assurances R211-1 et s., R211-25
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+_Modifié par_:
+
+  - Décret n°85-1007 1985-09-24 : Code des assurances art. R420-36
+
+
 ##### CONTRIBUTION POUR LES VEHICULES ETRANGERS.<a id=27></a>
 
 ###### Article 305 AE
@@ -1892,7 +1918,7 @@ _Nouveaux textes_:
 
 ###### Article 305 AG
 
-Sont également dispensés [*exonération*] des contributions prévues aux articles 305 AA, 305 AB et 305 AE les véhicules
+Sont également dispensés [*exonération*] des contributions prévues aux articles 305 AA, 305 AD et 305 AE les véhicules
 étrangers pour lesquels il a été produit une carte internationale d'assurance, en état de validité, délivrée par un bureau
 étranger constitué pour l'émission de certificats d'assurance suivant la formule adoptée par le sous-comité des transports
 routiers du comité des transports intérieurs de la commission économique pour l'Europe.
@@ -1902,12 +1928,25 @@ routiers du comité des transports intérieurs de la commission économique pour
 _Cite_:
 
   - CGIAN1 305 AA
-  - CGIAN1 305 AB
+  - CGIAN1 305 AD
   - CGIAN1 305 AE
+
+_Nouveaux textes_:
+
+  - CGIAN2 322 F
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+_Modifié par_:
+
+  - Décret n°85-1007 1985-09-24 : Code des assurances art. R420-36
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 10 août 1987
+  - HISTO: Edition du 15 juillet 1985
 
 
 #### FONDS NATIONAL DE GARANTIE DES CALAMITES AGRICOLES.<a id=28></a>
