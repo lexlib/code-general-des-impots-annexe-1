@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1983-07-09
+Version Consolidée au 1983-12-30
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 23 V 1 à 310 undecies)](#1)
     - [IMPOTS D'ETAT (art. 23 V 1 à 255)](#2)
@@ -305,23 +305,27 @@ _Nouveaux textes_:
 ###### Article 23 V 8
 
 La déclaration visée à l'article 23 V 7 doit être adressée au service des impôts dans le délai fixé pour la production de la
-déclaration prévue aux articles 53 et 223 du code général des impôts.
+déclaration prévue aux articles 53 A et 223 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 223
-  - CGI 53
+  - CGI 53 A
   - CGIAN1 23 V 7
 
 _Nouveaux textes_:
 
   - CGIAN2 163 octies III
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°84-875 1984-10-01
+
+_Modifié par_:
+
+  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
 
 
 ###### Article 23 V 10
