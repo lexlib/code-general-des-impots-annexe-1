@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1994-09-02
+Version Consolidée au 1995-10-27
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 218)](#1)
     - [Première partie : Impôts d'État (art. 27 à 218)](#2)
@@ -30,15 +30,14 @@ Version Consolidée au 1994-09-02
               - [2° : Dénaturation des alcools par un procédé spécial (art. 185 à 189)](#27)
               - [3° : Emploi de l'alcool sans dénaturation préalable (art. 190 à 191)](#28)
               - [4° : Dispositions diverses (art. 192 à 193)](#29)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 204 à 215)](#30)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 204 à 215)](#31)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 204 à 206)](#30)
+          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 204 à 206)](#31)
             - [I : Ouvrages d'or, d'argent et de platine aux titres légaux. (art. 204 à 206)](#32)
-            - [II : Bijoux à tous titres. (art. 215)](#33)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 207 à 218)](#34)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 207 à 218)](#35)
-            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 207 à 211)](#36)
-            - [II : Bijoux à tous titres non légaux (art. 213 à 220)](#37)
-            - [II : Bijoux à tous titres. (art. 218)](#38)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 207 à 218)](#33)
+          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 207 à 218)](#34)
+            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 207 à 211)](#35)
+            - [II : Bijoux à tous titres non légaux (art. 213 à 220)](#36)
+            - [II : Bijoux à tous titres. (art. 218)](#37)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -2439,54 +2438,11 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### II : Bijoux à tous titres.<a id=33></a>
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=33></a>
 
-###### Article 215
+##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=34></a>
 
-Les ouvrages ((d'or ou contenant de l'or)), d'argent et de platine ((à tous titres non légaux)) (M) doivent être revêtus du
-poinçon visé à l'article 213 dès la fin de la fabrication et avant tout polissage ou vernissage.
-
-Les ouvrages qui ne sont pas marqués de ce poinçon en application des dispositions de l'article 545 du code général des
-impôts doivent être expédiés vers les autres états membres de la Communauté économique européenne ou exportés vers les pays
-tiers dans un délai n'excédant pas trente jours. A défaut, ils sont revêtus du poinçon de maître.
-
-Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le fabricant sur un registre, mis gratuitement à sa
-disposition par l'administration et qui doit être représenté à toute réquisition des agents.
-
-L'inscription au registre présente la nature des objets par espèce de métal (or, argent ou platine) leur nombre, leur titre,
-leur poids brut, et, pour les objets composés de pièces rapportées de métaux différents, le poids de chaque espèce de métal.
-
-Le fabricant est tenu d'inscrire également, après le polissage, le poids net des ouvrages pour servir de base à la prise en
-charge.
-
-Le premier de chaque mois, le fabricant doit remettre au bureau de la garantie un relevé, même négatif, des objets inscrits
-sur ce registre pendant le mois précédent.
-
-(M) Modifications.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 545
-  - CGIAN1 213
-
-_Modifié par_:
-
-  - Loi n°94-6 du 4 janvier 1994 - art. 19 () JORF 5 janvier 1994, en vigueur le 13 décembre 1993
-  - Loi n°94-6 du 4 janvier 1994 - art. 31 (V) JORF 5 janvier 1994, en vigueur le 13 décembre 1993
-  - Modifications incorporées dans l'édition du 2 septembre 1994
-
-_Codifié par_:
-
-  - Décret n°94-899 1994-10-17
-
-
-#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=34></a>
-
-##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=35></a>
-
-##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=36></a>
+##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=35></a>
 
 ###### Article 207
 
@@ -2603,7 +2559,7 @@ _Abrogé par_:
   - Décret n°95-1137 du 23 octobre 1995 - art. 8 () JORF 28 octobre 1995
 
 
-##### II : Bijoux à tous titres non légaux<a id=37></a>
+##### II : Bijoux à tous titres non légaux<a id=36></a>
 
 ###### Article 213
 
@@ -2663,6 +2619,47 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°94-899 1994-10-17
+
+
+###### Article 215
+
+Les ouvrages d'or ou contenant de l'or, d'argent et de platine à tous titres non légaux doivent être revêtus du poinçon visé
+à l'article 213 dès la fin de la fabrication et avant tout polissage ou vernissage.
+
+Les ouvrages qui ne sont pas marqués de ce poinçon en application des dispositions de l'article 545 du code général des
+impôts doivent être expédiés vers les autres états membres de la Communauté européenne ou exportés vers les pays tiers dans
+un délai n'excédant pas trente jours. A défaut, ils sont revêtus du poinçon de maître.
+
+Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le fabricant sur un registre, mis gratuitement à sa
+disposition par l'administration et qui doit être représenté à toute réquisition des agents.
+
+L'inscription au registre présente la nature des objets par espèce de métal, or, argent ou platine, leur nombre, leur titre,
+leur poids brut, et, pour les objets composés de pièces rapportées de métaux différents, le poids de chaque espèce de métal.
+
+Le fabricant est tenu d'inscrire également, après le polissage, le poids net des ouvrages pour servir de base à la prise en
+charge.
+
+Le premier de chaque mois, le fabricant doit remettre au bureau de la garantie un relevé, même négatif, des objets inscrits
+sur ce registre pendant le mois précédent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 545
+  - CGIAN1 213
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
+
+_Modifié par_:
+
+  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+
+_Codifié par_:
+
+  - Décret n°95-1281 1995-12-11
 
 
 ###### Article 216
@@ -2790,7 +2787,7 @@ _Cite_:
   - Code des instruments monétaires et des médailles - art. 9 (M)
 
 
-##### II : Bijoux à tous titres.<a id=38></a>
+##### II : Bijoux à tous titres.<a id=37></a>
 
 ###### Article 218
 
