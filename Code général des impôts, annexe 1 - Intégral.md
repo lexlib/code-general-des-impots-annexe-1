@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-03-11
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 218)](#1)
     - [Première partie : Impôts d'État (art. 27 à 218)](#2)
@@ -27,19 +27,18 @@ Version Consolidée au 1993-01-01
           - [Section IV : Régimes particuliers (art. 165 à 193)](#24)
             - [I : Alcools dénaturés (art. 165 à 193)](#25)
               - [1° : Dénaturation des alcools par le procédé général (art. 165 à 184)](#26)
-              - [2° : Dénaturation des alcools par un procédé spécial (art. 186 à 189)](#27)
-              - [Dénaturation des alcools par un procédé spécial. (art. 185)](#28)
-              - [3° : Emploi de l'alcool sans dénaturation préalable (art. 190 à 191)](#29)
-              - [4° : Dispositions diverses (art. 192 à 193)](#30)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 204 à 220)](#31)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 204 à 206)](#32)
-            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux. (art. 204 à 206)](#33)
-          - [Exportation (art. 213 à 220)](#34)
-            - [II : Bijoux à tous titres (art. 213 à 220)](#35)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 207 à 218)](#36)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 207 à 218)](#37)
-            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 207 à 211)](#38)
-            - [II : Bijoux à tous titres. (art. 218)](#39)
+              - [2° : Dénaturation des alcools par un procédé spécial (art. 185 à 189)](#27)
+              - [3° : Emploi de l'alcool sans dénaturation préalable (art. 190 à 191)](#28)
+              - [4° : Dispositions diverses (art. 192 à 193)](#29)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 204 à 220)](#30)
+          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 204 à 206)](#31)
+            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux. (art. 204 à 206)](#32)
+          - [Exportation (art. 213 à 220)](#33)
+            - [II : Bijoux à tous titres (art. 213 à 220)](#34)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 207 à 218)](#35)
+          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 207 à 218)](#36)
+            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 207 à 211)](#37)
+            - [II : Bijoux à tous titres. (art. 218)](#38)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -2173,6 +2172,29 @@ _Modifié par_:
 
 ##### 2° : Dénaturation des alcools par un procédé spécial<a id=27></a>
 
+###### Article 185
+
+Les dispositions des articles 165 à 171 et 173 à 178 sont applicables aux industriels qui se proposent de dénaturer des
+alcools par un procédé différent du procédé général, ou de fabriquer des produits à base d'alcool ainsi dénaturé.
+
+(Abrogé).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN1 165, 166, 167, 168, 169, 170, 171, 173, 174, 175, 176, 177, 178
+
+_Modifié par_:
+
+  - Décret n°93-310 du 9 mars 1993 - art. 62 () JORF 11 mars 1993
+  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 186
 
 Lesdits industriels mentionnent dans la demande d'autorisation prévue à l'article 165, les indications supplémentaires
@@ -2263,28 +2285,7 @@ _Cite_:
   - Code général des impôts annexe 1, CGIAN1. - art. 188 (V)
 
 
-##### Dénaturation des alcools par un procédé spécial.<a id=28></a>
-
-###### Article 185
-
-Les dispositions des articles 165 à 171 et 173 à 178 sont applicables aux industriels qui se proposent de dénaturer des
-alcools par un procédé différent du procédé général, ou de fabriquer des produits à base d'alcool ainsi dénaturé.
-
-Toutefois, les opérations de dénaturation de l'alcool éthylique destiné à être incorporé à du supercarburant et de l'essence
-sont effectuées sous la surveillance de l'administration des douanes.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 165, 166, 167, 168, 169, 170, 171, 173, 174, 175, 176, 177, 178
-
-_Modifié par_:
-
-  - Décret n°88-766 du 22 juin 1988 - art. 2 (V) JORF 23 juin 1988
-
-
-##### 3° : Emploi de l'alcool sans dénaturation préalable<a id=29></a>
+##### 3° : Emploi de l'alcool sans dénaturation préalable<a id=28></a>
 
 ###### Article 190
 
@@ -2328,7 +2329,7 @@ transformé.
 
 
 
-##### 4° : Dispositions diverses<a id=30></a>
+##### 4° : Dispositions diverses<a id=29></a>
 
 ###### Article 192
 
@@ -2368,11 +2369,11 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=31></a>
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=30></a>
 
-##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=32></a>
+##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=31></a>
 
-##### I : Ouvrages d'or, d'argent et de platine aux titres légaux.<a id=33></a>
+##### I : Ouvrages d'or, d'argent et de platine aux titres légaux.<a id=32></a>
 
 ###### Article 204
 
@@ -2438,9 +2439,9 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Exportation<a id=34></a>
+##### Exportation<a id=33></a>
 
-##### II : Bijoux à tous titres<a id=35></a>
+##### II : Bijoux à tous titres<a id=34></a>
 
 ###### Article 213
 
@@ -2627,11 +2628,11 @@ _Cite_:
   - Code des instruments monétaires et des médailles - art. 9 (M)
 
 
-#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=36></a>
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=35></a>
 
-##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=37></a>
+##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=36></a>
 
-##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=38></a>
+##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=37></a>
 
 ###### Article 207
 
@@ -2748,7 +2749,7 @@ _Abrogé par_:
   - Décret n°95-1137 du 23 octobre 1995 - art. 8 () JORF 28 octobre 1995
 
 
-##### II : Bijoux à tous titres.<a id=39></a>
+##### II : Bijoux à tous titres.<a id=38></a>
 
 ###### Article 218
 
