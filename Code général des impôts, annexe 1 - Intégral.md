@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1984-06-07
+Version Consolidée au 1984-07-24
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 23 V 1 à 310 undecies)](#1)
     - [IMPOTS D'ETAT (art. 23 V 1 à 255)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 1984-06-07
         - [BOISSONS (art. 65 à 192)](#9)
           - [PRODUCTION DES ALCOOLS. (art. 65)](#10)
           - [CIRCULATION. (art. 155)](#11)
-          - [REGIMES PARTICULIERS. (art. 177 à 192)](#12)
+          - [REGIMES PARTICULIERS. (art. 185 à 192)](#12)
       - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE. (art. 230)](#13)
       - [DROITS DE TIMBRE (art. 234 à 255)](#14)
         - [DROITS DE TIMBRE PROPREMENT DITS. (art. 234 à 238)](#15)
@@ -509,64 +509,6 @@ _Codifié par_:
 
 
 ##### REGIMES PARTICULIERS.<a id=12></a>
-
-###### Article 177
-
-Les dénaturateurs d'alcool par le procédé général sont soumis dans leurs ateliers, magasins et autres locaux professionnels,
-aux visites et vérifications des agents des impôts. Ils doivent, dès qu'il en sont requis, assister aux vérifications ou s'y
-faire représenter par délégués, donner toutes facilités aux agents de l'administration pour accomplir leur tâche et fournir à
-cet effet la main-d'oeuvre et les ustensiles nécessaires. 
-
-Ils doivent, en outre, lors des inventaires, déclarer la quantité et le titre alcoométrique volumique des alcools restant en
-magasin. 
-
-Ils sont aussi tenus de mettre gratuitement à la disposition du service, dans leurs ateliers, deux chaises et une table avec
-tiroir fermant à clé.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - CGI R26-1
-
-_Modifié par_:
-
-  - Décret n°79-200 1979-03-05 ART. 3 JORF 11 MARS 1979
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
-
-_Transféré par_:
-
-  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 juillet 1984
-
-
-###### Article 183
-
-Les agents des impôts sont autorisés, aux fins d'analyse, à prélever des échantillons chez les marchands en gros et les
-détaillants d'alcool dénaturé par le procédé général.
-
-Si les produits sont reconnus réunir les éléments prescrits, la valeur des échantillons prélevés est remboursée aux
-intéressés par le service des impôts.
-
-Des prélèvements peuvent être effectués, dans les mêmes conditions, sur les liquides mis en vente chez les débitants de
-boissons.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - CGI R26-2
-
-_Transféré par_:
-
-  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 juillet 1984
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 185
 
