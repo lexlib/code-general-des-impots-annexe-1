@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1995-10-27
+Version Consolidée au 1996-05-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 218)](#1)
     - [Première partie : Impôts d'État (art. 27 à 218)](#2)
@@ -30,14 +30,11 @@ Version Consolidée au 1995-10-27
               - [2° : Dénaturation des alcools par un procédé spécial (art. 185 à 189)](#27)
               - [3° : Emploi de l'alcool sans dénaturation préalable (art. 190 à 191)](#28)
               - [4° : Dispositions diverses (art. 192 à 193)](#29)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 204 à 206)](#30)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 204 à 206)](#31)
-            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux. (art. 204 à 206)](#32)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 207 à 218)](#33)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 207 à 218)](#34)
-            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 207 à 211)](#35)
-            - [II : Bijoux à tous titres non légaux (art. 213 à 220)](#36)
-            - [II : Bijoux à tous titres. (art. 218)](#37)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 204 à 218)](#30)
+          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 204 à 218)](#31)
+            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 204 à 210)](#32)
+            - [II : Bijoux à tous titres non légaux (art. 213 à 220)](#33)
+            - [II : Bijoux à tous titres. (art. 218)](#34)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -755,7 +752,7 @@ _Cité par_:
 Le présent règlement des distilleries détermine les conditions dans lesquelles toutes personnes physiques ou morales, autres
 que les bouilleurs de cru, sont autorisées à procéder aux opérations de production, de repasse, de repassage, de
 rectification, de déshydratation, de récupération, de régénération d'alcools de toute nature et de toutes origines soumis au
-régime fiscal de l'alcool en vertu des dispositions de l'article 401 du code général des impôts.
+régime fiscal de l'alcool en vertu ((des dispositions du I de l'article 401 du code général des impôts)) (M).
 
 Pour l'application de ce règlement :
 
@@ -772,12 +769,22 @@ effectuée au moyen de compteurs agréés apposés sur les appareils de distilla
 Il établit un régime spécial applicable, sous réserve des dispositions de l'article 78 ci-après, aux distilleries dans
 lesquelles les conditions techniques existantes amènent à différer provisoirement l'installation de tels compteurs.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 401, 314, 341
   - CGIAN1 78
+
+_Modifié par_:
+
+  - Loi - art. 25 () JORF 31 décembre 1995
+
+_Codifié par_:
+
+  - Décret n°96-556 1996-06-21
 
 _Cité par_:
 
@@ -790,7 +797,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 12 mai 1996
 
 
 ##### 2° : Régime général<a id=15></a>
@@ -2367,24 +2374,26 @@ _Abrogé par_:
 
 ##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=31></a>
 
-##### I : Ouvrages d'or, d'argent et de platine aux titres légaux.<a id=32></a>
+##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=32></a>
 
 ###### Article 204
 
-Tout fabricant qui veut exporter des ouvrages d'or, d'argent ou de platine en franchise du droit de garantie et sans
-apposition des poinçons français peut les présenter à l'essai, achevés et sans marque du poinçon de maître, à condition
-d'avoir déclaré préalablement au bureau de garantie, le nombre, l'espèce et le poids desdits ouvrages et de s'être engagé à
-les y apporter achevés dans un délai n'excédant pas trente jours.
+Tout fabricant qui veut exporter ou livrer à destination d'un autre Etat membre de l'Union européenne des ouvrages d'or ou
+contenant de l'or, des ouvrages d'argent ou des ouvrages de platine en franchise du droit spécifique prévu par l'article 527
+du code général des impôts et sans apposition des poinçons français doit en faire la déclaration préalable au bureau de
+garantie dont il relève. Cette déclaration indique le nombre, l'espèce et le poids des ouvrages et contient un engagement de
+les exporter ou de les livrer à destination d'un autre Etat membre de l'Union européenne dans un délai de trois mois à
+compter de cette déclaration. Le fabricant peut les présenter à l'essai achevés avec ou sans marque de poinçon de maître.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGI 527
+
 _Modifié par_:
 
-  - Décret n°84-423 du 30 mai 1984 - art. 2 (V) JORF 7 juin 1984
-
-_Codifié par_:
-
-  - Décret n°94-899 1994-10-17
+  - Décret n°95-1137 du 23 octobre 1995 - art. 1 () JORF 28 octobre 1995
 
 _Cité par_:
 
@@ -2392,87 +2401,56 @@ _Cité par_:
   - Code général des impôts annexe 1, CGIAN1. - art. 208 (V)
   - Code général des impôts, CGI. - art. 547 (V)
 
+**Liens**:
+
+  - HISTO: Edition du 12 mai 1996
+
 
 ###### Article 205
 
 Toutefois, les ouvrages d'orfèvrerie qui ne pourraient être essayés sans détérioration s'ils étaient achevés sont apportés
-bruts au bureau de garantie, soumis à l'essai et remis ensuite au fabricant pour en terminer la fabrication si celui-ci
-s'engage à les rapporter achevés dans le délai de trente jours.
-
-Les ouvrages ainsi rapportés après achèvement sont vérifiés par le service de la garantie qui s'assure de leur identité.
+bruts au bureau de garantie, soumis à l'essai et remis ensuite au fabricant pour en terminer la fabrication.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°84-423 du 30 mai 1984 - art. 2 (V) JORF 7 juin 1984
-
-_Codifié par_:
-
-  - Décret n°94-899 1994-10-17
+  - Décret n°95-1137 du 23 octobre 1995 - art. 2 () JORF 28 octobre 1995
 
 
 ###### Article 206
 
-Tous les ouvrages visés aux articles 204 et 205, une fois achevés et soumis à l'essai, sont aussitôt renfermés dans une boîte
-scellée, revêtue du cachet de la garantie et remis au fabricant sur soumission de celui-ci de les exporter dans les délais
-prescrits par la loi.
+Tous les ouvrages visés aux articles 204 et 205, une fois soumis à l'essai, sont immédiatement remis au fabricant.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°95-1137 du 23 octobre 1995 - art. 3 () JORF 28 octobre 1995
 
 _Cite_:
 
-  - CGIAN1 204, 205
-
-_Codifié par_:
-
-  - Décret n°94-899 1994-10-17
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=33></a>
-
-##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=34></a>
-
-##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=35></a>
-
-###### Article 207
-
-Les fabricants qui veulent conserver à domicile les ouvrages qu'ils destinent à l'exportation sont admis, sur déclaration, à
-les faire marquer d'un poinçon spécial dit "d'exportation" selon les règles ordinaires d'essai et de contrôle.
-
-Si les fabricants le demandent, le poinçon peut être appliqué, après essai de l'ouvrage, sur une perle métallique fabriquée
-suivant un modèle fourni par l'administration et attachée à l'ouvrage par un fil de soie de telle manière que la marque
-volante n'en puisse être enlevée.
-
-Les ouvrages ainsi marqués sont rendus aux fabricants qui sont dispensés dans tous les cas du paiement des droits de
-garantie, à charge pour eux de justifier ultérieurement de l'exportation desdits ouvrages.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°95-1137 du 23 octobre 1995 - art. 4 () JORF 28 octobre 1995
+  - Code général des impôts annexe 1, CGIAN1. - art. 204 (V)
 
 
 ###### Article 208
 
-Le compte des fabricants est chargé des ouvrages marqués du poinçon d'exportation ou des marques volantes. La décharge
-s'opère soit par la justification de l'exportation dans les formes prescrites, soit par la prise en charge au compte d'un
-commerçant ou d'un marchand en gros dans les conditions prévues à l'article 210.
+Le compte des fabricants est chargé des ouvrages déclarés en application de l'article 204 ainsi que des ouvrages non marqués
+qui ont fait l'objet de la déclaration visée à cet article réimportés ou réintroduits en provenance d'un autre Etat membre de
+l'Union européenne. La décharge s'opère, dans le délai de trois mois, soit par la justification de l'exportation dans les
+formes prescrites ou de la livraison à destination d'un autre Etat membre de l'Union européenne par tout document probant,
+soit par la prise en charge au compte d'un commerçant ou d'un marchand en gros dans les conditions prévues à l'article 210,
+soit par la remise en fabrication d'ouvrages refondus après accord exprès du service de la garantie.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGIAN1 210
+  - CGIAN1 204, 210
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°95-1137 du 23 octobre 1995 - art. 5 () JORF 28 octobre 1995
 
 _Cité par_:
 
@@ -2480,81 +2458,48 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article 209
 
 Les manquants reconnus au compte des fabricants lors des recensements et inventaires sont soumis au paiement intégral du
-droit de garantie.
-
-**Nota:**
-
-(Nota : Décret 94-899, modification de la table des matières.)
+droit spécifique prévu à l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°94-899 1994-10-17
+  - CGI 527
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°95-1137 du 23 octobre 1995 - art. 6 () JORF 28 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2004-587 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
 
 
 ###### Article 210
 
-Les ouvrages déclarés pour l'exportation et pris en compte chez les fabricants peuvent être achetés par des négociants,
-lesquels sont tenus, avant d'en prendre livraison, de faire une déclaration descriptive desdits objets au bureau de garantie
-et de se soumettre à la prise en charge aux mêmes conditions que les fabricants.
-
-Il est interdit, sous les peines de droit, à toutes autres personnes faisant commerce d'or, d'argent et de platine de détenir
-des ouvrages marqués du poinçon d'exportation ou revêtus de marques volantes.
-
-**Nota:**
-
-(Nota : Décret 94-899, modification de la table des matières.)
+Les ouvrages déclarés pour l'exportation ou pour la livraison à destination d'un autre Etat membre de l'Union européenne et
+pris en compte chez les fabricants peuvent être achetés par des négociants, lesquels sont tenus, avant d'en prendre
+livraison, de faire une déclaration descriptive desdits objets au bureau de garantie et de se soumettre à la prise en charge
+aux mêmes conditions que les fabricants.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°95-1137 du 23 octobre 1995 - art. 7 () JORF 28 octobre 1995
 
 _Cité par_:
 
   - Code général des impôts annexe 1, CGIAN1. - art. 208 (V)
 
-**Liens**:
 
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 211
-
-Les colis renfermant les ouvrages marqués ou non marqués déclarés pour l'exportation sont obligatoirement confectionnés en
-présence des agents de la garantie qui les escortent et assistent au plombage en douane.
-
-Le compte de l'expéditeur ou la soumission d'exportation sont déchargés, sur la justification, dans le délai de trois mois,
-de la sortie du colis.
-
-**Nota:**
-
-(Nota : Décret 94-899, modification de la table des matières.)
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°94-899 1994-10-17
-
-_Abrogé par_:
-
-  - Décret n°95-1137 du 23 octobre 1995 - art. 8 () JORF 28 octobre 1995
-
-
-##### II : Bijoux à tous titres non légaux<a id=36></a>
+##### II : Bijoux à tous titres non légaux<a id=33></a>
 
 ###### Article 213
 
@@ -2782,7 +2727,7 @@ _Cite_:
   - Code des instruments monétaires et des médailles - art. 9 (M)
 
 
-##### II : Bijoux à tous titres.<a id=37></a>
+##### II : Bijoux à tous titres.<a id=34></a>
 
 ###### Article 218
 
