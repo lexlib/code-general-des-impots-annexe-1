@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1979-07-01
+Version Consolidée au 1979-08-26
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 23 V 1 à 310 undecies)](#1)
     - [IMPOTS D'ETAT (art. 23 V 1 à 255)](#2)
@@ -51,7 +51,7 @@ Version Consolidée au 1979-07-01
               - [5° : Dispositions communes (art. 56)](#48)
             - [IV : Règlement des distilleries (art. 57 à 91)](#49)
               - [1° : Généralités (art. 57)](#50)
-              - [Régime général. (art. 58 à 74)](#51)
+              - [Régime général. (art. 58 à 75)](#51)
               - [2° : Régime général (art. 72 à 78)](#52)
               - [3° : Régime spécial (art. 80 à 88)](#53)
               - [Régime spécial (art. 81 à 87)](#54)
@@ -672,25 +672,6 @@ _Cite_:
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 342 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 75
-
-Les mises en distillation de matières à traiter suivies en compte, les repassages de produits imparfaits, les rectifications
-de flegmes ou de produits défectueux, les déshydratations d'alcool achevé doivent être déclarés par l'exploitant, au fur et à
-mesure de leur déroulement, sur un registre mis à sa disposition.
-
-Les mises en macération de fruits font l'objet d'une déclaration préalable sur un registre spécialement réservé à cet usage.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code général des impôts, annexe 4, CGIAN4. - art. 51 septies J (V)
 
 **Liens**:
 
@@ -3771,6 +3752,35 @@ _Cité par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 75
+
+Les mises en distillation de matières à traiter suivies en compte, les repassages de produits imparfaits, les rectifications
+de flegmes ou de produits défectueux, les déshydratations d'alcool achevé doivent être déclarés par l'exploitant, au fur et à
+mesure de leur déroulement, sur un registre mis à sa disposition.
+
+Toutefois, lorsque, au cours d'une campagne, la quantité d'alcool pur contenue dans les produits destinés à être repassés,
+rectifiés et déshydratés a été supérieure à 1 % [*pourcentage*] de la quantité d'alcool pur obtenue, les agents des impôts
+peuvent décider que la quantité d'alcool mise en oeuvre à l'occasion de ces opérations soit déterminée au moyen d'un compteur
+agréé placé par l'administration à l'entrée du circuit de fabrication scellé dans les conditions prévues à l'article 60. Dans
+ce cas, les produits repassés par ce compteur n'ont plus à être inscrits sur le registre susmentionné.
+
+Les mises en macération de fruits font l'objet d'une déclaration préalable sur un registre spécialement réservé à cet usage.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN1 60
+
+_Modifié par_:
+
+  - Décret n°79-715 du 22 août 1979 - art. 1 (V) JORF 26 AOUT 1979
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 51 septies J (V)
 
 
 ##### 2° : Régime général<a id=52></a>
