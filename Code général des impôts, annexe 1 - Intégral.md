@@ -1,95 +1,64 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1987-08-10
+Version Consolidée au 1988-06-23
 ## Contenu: 
-  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 185)](#1)
-    - [IMPOTS D'ETAT (art. 185)](#2)
-      - [CONTRIBUTIONS INDIRECTES (art. 185)](#3)
-        - [BOISSONS (art. 185)](#4)
-          - [REGIMES PARTICULIERS. (art. 185)](#5)
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 218)](#6)
-    - [Première partie : Impôts d'État (art. 27 à 218)](#7)
-      - [Titre III : Contributions indirectes et monopoles fiscaux (art. 27 à 218)](#8)
-        - [Chapitre premier : Boissons (art. 27 à 193)](#9)
-          - [Section I : Production des alcools (art. 27 à 91)](#10)
-            - [I : Réglementation des alambics (art. 27 à 33)](#11)
-            - [III : Bouilleurs de cru (art. 37 à 56)](#12)
-              - [Généralités. (art. 37)](#13)
-              - [2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation (art. 38 à 47)](#14)
-              - [Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation. (art. 39 à 40)](#15)
-              - [Bouilleurs de cru faisant distiller dans un atelier public. (art. 48 à 50)](#16)
-              - [3° : Bouilleurs de cru faisant distiller dans un atelier public (art. 49 à 53)](#17)
-              - [4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale (art. 55)](#18)
-              - [Bouilleurs de cru distillant en brûlerie coopérative ou syndicale. (art. 54)](#19)
-              - [5° : Dispositions communes (art. 56)](#20)
-            - [IV : Règlement des distilleries (art. 57 à 91)](#21)
-              - [1° : Généralités (art. 57)](#22)
-              - [Régime général. (art. 58 à 75)](#23)
-              - [2° : Régime général (art. 72 à 78)](#24)
-              - [3° : Régime spécial (art. 79 à 88)](#25)
-              - [Régime spécial (art. 81 à 87)](#26)
-              - [Dispositions communes (art. 89 à 90)](#27)
-              - [4° : Dispositions communes. (art. 91)](#28)
-          - [Section II : Circulation (art. 156)](#29)
-            - [II : Dispositions spéciales aux alcools (art. 156)](#30)
-              - [Epalement des réservoirs (art. 156)](#31)
-          - [Section III : Commerce (art. 159 à 164)](#32)
-            - [I : Calcul des déductions. (art. 159)](#33)
-            - [II : Spiritueux composés - Déduction complémentaire. (art. 160 à 164)](#34)
-          - [Section IV : Régimes particuliers (art. 166 à 193)](#35)
-            - [I : Alcools dénaturés (art. 166 à 193)](#36)
-              - [1° : Dénaturation des alcools par le procédé général (art. 166 à 182)](#37)
-              - [Dénaturation des alcools par le procédé général. (art. 165 à 184)](#38)
-              - [2° : Dénaturation des alcools par un procédé spécial (art. 187 à 188)](#39)
-              - [Dénaturation des alcools par un procédé spécial. (art. 186 à 189)](#40)
-              - [3° : Emploi de l'alcool sans dénaturation préalable (art. 191)](#41)
-              - [Emploi de l'alcool sans dénaturation préalable. (art. 190)](#42)
-              - [Dispositions diverses. (art. 192 à 193)](#43)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 204 à 220)](#44)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 204 à 206)](#45)
-            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux. (art. 204 à 206)](#46)
-          - [Exportation (art. 213 à 220)](#47)
-            - [II : Bijoux à tous titres (art. 213 à 220)](#48)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 207 à 218)](#49)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 207 à 218)](#50)
-            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 207 à 211)](#51)
-            - [II : Bijoux à tous titres. (art. 218)](#52)
-# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=1></a>
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 218)](#1)
+    - [Première partie : Impôts d'État (art. 27 à 218)](#2)
+      - [Titre III : Contributions indirectes et monopoles fiscaux (art. 27 à 218)](#3)
+        - [Chapitre premier : Boissons (art. 27 à 193)](#4)
+          - [Section I : Production des alcools (art. 27 à 91)](#5)
+            - [I : Réglementation des alambics (art. 27 à 33)](#6)
+            - [III : Bouilleurs de cru (art. 37 à 56)](#7)
+              - [Généralités. (art. 37)](#8)
+              - [2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation (art. 38 à 47)](#9)
+              - [Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation. (art. 39 à 40)](#10)
+              - [Bouilleurs de cru faisant distiller dans un atelier public. (art. 48 à 50)](#11)
+              - [3° : Bouilleurs de cru faisant distiller dans un atelier public (art. 49 à 53)](#12)
+              - [4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale (art. 55)](#13)
+              - [Bouilleurs de cru distillant en brûlerie coopérative ou syndicale. (art. 54)](#14)
+              - [5° : Dispositions communes (art. 56)](#15)
+            - [IV : Règlement des distilleries (art. 57 à 91)](#16)
+              - [1° : Généralités (art. 57)](#17)
+              - [Régime général. (art. 58 à 75)](#18)
+              - [2° : Régime général (art. 72 à 78)](#19)
+              - [3° : Régime spécial (art. 79 à 88)](#20)
+              - [Régime spécial (art. 81 à 87)](#21)
+              - [Dispositions communes (art. 89 à 90)](#22)
+              - [4° : Dispositions communes. (art. 91)](#23)
+          - [Section II : Circulation (art. 156)](#24)
+            - [II : Dispositions spéciales aux alcools (art. 156)](#25)
+              - [Epalement des réservoirs (art. 156)](#26)
+          - [Section III : Commerce (art. 159 à 164)](#27)
+            - [I : Calcul des déductions. (art. 159)](#28)
+            - [II : Spiritueux composés - Déduction complémentaire. (art. 160 à 164)](#29)
+          - [Section IV : Régimes particuliers (art. 166 à 193)](#30)
+            - [I : Alcools dénaturés (art. 166 à 193)](#31)
+              - [1° : Dénaturation des alcools par le procédé général (art. 166 à 182)](#32)
+              - [Dénaturation des alcools par le procédé général. (art. 165 à 184)](#33)
+              - [2° : Dénaturation des alcools par un procédé spécial (art. 187 à 188)](#34)
+              - [Dénaturation des alcools par un procédé spécial. (art. 185 à 189)](#35)
+              - [3° : Emploi de l'alcool sans dénaturation préalable (art. 191)](#36)
+              - [Emploi de l'alcool sans dénaturation préalable. (art. 190)](#37)
+              - [Dispositions diverses. (art. 192 à 193)](#38)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 204 à 220)](#39)
+          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 204 à 206)](#40)
+            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux. (art. 204 à 206)](#41)
+          - [Exportation (art. 213 à 220)](#42)
+            - [II : Bijoux à tous titres (art. 213 à 220)](#43)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 207 à 218)](#44)
+          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 207 à 218)](#45)
+            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 207 à 211)](#46)
+            - [II : Bijoux à tous titres. (art. 218)](#47)
+# Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
-## IMPOTS D'ETAT<a id=2></a>
+## Première partie : Impôts d'État<a id=2></a>
 
-### CONTRIBUTIONS INDIRECTES<a id=3></a>
+### Titre III : Contributions indirectes et monopoles fiscaux<a id=3></a>
 
-#### BOISSONS<a id=4></a>
+#### Chapitre premier : Boissons<a id=4></a>
 
-##### REGIMES PARTICULIERS.<a id=5></a>
+##### Section I : Production des alcools<a id=5></a>
 
-###### Article 185
-
-Les dispositions des articles 165 à 171 et 173 à 178 sont applicables aux industriels qui se proposent de dénaturer des
-alcools par un procédé différent du procédé général, ou de fabriquer des produits à base d'alcool ainsi dénaturé.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 165, 166, 167, 168, 169, 170, 171, 173, 174, 175, 176, 177, 178
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-# Livre premier : Assiette et liquidation de l'impôt<a id=6></a>
-
-## Première partie : Impôts d'État<a id=7></a>
-
-### Titre III : Contributions indirectes et monopoles fiscaux<a id=8></a>
-
-#### Chapitre premier : Boissons<a id=9></a>
-
-##### Section I : Production des alcools<a id=10></a>
-
-##### I : Réglementation des alambics<a id=11></a>
+##### I : Réglementation des alambics<a id=6></a>
 
 ###### Article 27
 
@@ -207,9 +176,9 @@ La destruction ne peut avoir lieu qu'en présence des agents, qui en dressent pr
   - HISTO: EDITION 1979-07-01
 
 
-##### III : Bouilleurs de cru<a id=12></a>
+##### III : Bouilleurs de cru<a id=7></a>
 
-##### Généralités.<a id=13></a>
+##### Généralités.<a id=8></a>
 
 ###### Article 37
 
@@ -253,7 +222,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
 
 
-##### 2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation<a id=14></a>
+##### 2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation<a id=9></a>
 
 ###### Article 38
 
@@ -451,7 +420,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation.<a id=15></a>
+##### Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation.<a id=10></a>
 
 ###### Article 39
 
@@ -535,7 +504,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Bouilleurs de cru faisant distiller dans un atelier public.<a id=16></a>
+##### Bouilleurs de cru faisant distiller dans un atelier public.<a id=11></a>
 
 ###### Article 48
 
@@ -599,7 +568,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-##### 3° : Bouilleurs de cru faisant distiller dans un atelier public<a id=17></a>
+##### 3° : Bouilleurs de cru faisant distiller dans un atelier public<a id=12></a>
 
 ###### Article 49
 
@@ -668,7 +637,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### 4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale<a id=18></a>
+##### 4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale<a id=13></a>
 
 ###### Article 55
 
@@ -696,7 +665,7 @@ _Cite_:
   - CGIAN1 47
 
 
-##### Bouilleurs de cru distillant en brûlerie coopérative ou syndicale.<a id=19></a>
+##### Bouilleurs de cru distillant en brûlerie coopérative ou syndicale.<a id=14></a>
 
 ###### Article 54
 
@@ -726,7 +695,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 5° : Dispositions communes<a id=20></a>
+##### 5° : Dispositions communes<a id=15></a>
 
 ###### Article 56
 
@@ -756,9 +725,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
 
 
-##### IV : Règlement des distilleries<a id=21></a>
+##### IV : Règlement des distilleries<a id=16></a>
 
-##### 1° : Généralités<a id=22></a>
+##### 1° : Généralités<a id=17></a>
 
 ###### Article 57
 
@@ -803,7 +772,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Régime général.<a id=23></a>
+##### Régime général.<a id=18></a>
 
 ###### Article 58
 
@@ -1170,7 +1139,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 51 septies J (V)
 
 
-##### 2° : Régime général<a id=24></a>
+##### 2° : Régime général<a id=19></a>
 
 ###### Article 72
 
@@ -1245,7 +1214,7 @@ la qualité de l'alcool obtenu.
   - HISTO: EDITION 1979-07-01
 
 
-##### 3° : Régime spécial<a id=25></a>
+##### 3° : Régime spécial<a id=20></a>
 
 ###### Article 79
 
@@ -1369,7 +1338,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Régime spécial<a id=26></a>
+##### Régime spécial<a id=21></a>
 
 ###### Article 81
 
@@ -1460,7 +1429,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Dispositions communes<a id=27></a>
+##### Dispositions communes<a id=22></a>
 
 ###### Article 89
 
@@ -1495,7 +1464,7 @@ L'exploitant est tenu de se conformer aux indications reçues.
   - HISTO: EDITION 1979-07-01
 
 
-##### 4° : Dispositions communes.<a id=28></a>
+##### 4° : Dispositions communes.<a id=23></a>
 
 ###### Article 91
 
@@ -1517,11 +1486,11 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Section II : Circulation<a id=29></a>
+##### Section II : Circulation<a id=24></a>
 
-##### II : Dispositions spéciales aux alcools<a id=30></a>
+##### II : Dispositions spéciales aux alcools<a id=25></a>
 
-##### Epalement des réservoirs<a id=31></a>
+##### Epalement des réservoirs<a id=26></a>
 
 ###### Article 156
 
@@ -1534,9 +1503,9 @@ Toute modification de la contenance des réservoirs doit être précédée d'une
 
 
 
-##### Section III : Commerce<a id=32></a>
+##### Section III : Commerce<a id=27></a>
 
-##### I : Calcul des déductions.<a id=33></a>
+##### I : Calcul des déductions.<a id=28></a>
 
 ###### Article 159
 
@@ -1560,7 +1529,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### II : Spiritueux composés - Déduction complémentaire.<a id=34></a>
+##### II : Spiritueux composés - Déduction complémentaire.<a id=29></a>
 
 ###### Article 160
 
@@ -1662,11 +1631,11 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Section IV : Régimes particuliers<a id=35></a>
+##### Section IV : Régimes particuliers<a id=30></a>
 
-##### I : Alcools dénaturés<a id=36></a>
+##### I : Alcools dénaturés<a id=31></a>
 
-##### 1° : Dénaturation des alcools par le procédé général<a id=37></a>
+##### 1° : Dénaturation des alcools par le procédé général<a id=32></a>
 
 ###### Article 166
 
@@ -1852,7 +1821,7 @@ rectification, ou ceux qui sont affectés à la fabrication ou au commerce en gr
 
 
 
-##### Dénaturation des alcools par le procédé général.<a id=38></a>
+##### Dénaturation des alcools par le procédé général.<a id=33></a>
 
 ###### Article 165
 
@@ -2052,7 +2021,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 2° : Dénaturation des alcools par un procédé spécial<a id=39></a>
+##### 2° : Dénaturation des alcools par un procédé spécial<a id=34></a>
 
 ###### Article 187
 
@@ -2091,7 +2060,26 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Dénaturation des alcools par un procédé spécial.<a id=40></a>
+##### Dénaturation des alcools par un procédé spécial.<a id=35></a>
+
+###### Article 185
+
+Les dispositions des articles 165 à 171 et 173 à 178 sont applicables aux industriels qui se proposent de dénaturer des
+alcools par un procédé différent du procédé général, ou de fabriquer des produits à base d'alcool ainsi dénaturé.
+
+Toutefois, les opérations de dénaturation de l'alcool éthylique destiné à être incorporé à du supercarburant et de l'essence
+sont effectuées sous la surveillance de l'administration des douanes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN1 165, 166, 167, 168, 169, 170, 171, 173, 174, 175, 176, 177, 178
+
+_Modifié par_:
+
+  - Décret n°88-766 du 22 juin 1988 - art. 2 (V) JORF 23 juin 1988
+
 
 ###### Article 186
 
@@ -2136,7 +2124,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 3° : Emploi de l'alcool sans dénaturation préalable<a id=41></a>
+##### 3° : Emploi de l'alcool sans dénaturation préalable<a id=36></a>
 
 ###### Article 191
 
@@ -2145,7 +2133,7 @@ transformé.
 
 
 
-##### Emploi de l'alcool sans dénaturation préalable.<a id=42></a>
+##### Emploi de l'alcool sans dénaturation préalable.<a id=37></a>
 
 ###### Article 190
 
@@ -2171,7 +2159,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Dispositions diverses.<a id=43></a>
+##### Dispositions diverses.<a id=38></a>
 
 ###### Article 192
 
@@ -2205,11 +2193,11 @@ dépositaires.
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=44></a>
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=39></a>
 
-##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=45></a>
+##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=40></a>
 
-##### I : Ouvrages d'or, d'argent et de platine aux titres légaux.<a id=46></a>
+##### I : Ouvrages d'or, d'argent et de platine aux titres légaux.<a id=41></a>
 
 ###### Article 204
 
@@ -2275,9 +2263,9 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Exportation<a id=47></a>
+##### Exportation<a id=42></a>
 
-##### II : Bijoux à tous titres<a id=48></a>
+##### II : Bijoux à tous titres<a id=43></a>
 
 ###### Article 213
 
@@ -2464,11 +2452,11 @@ _Cite_:
   - Code des instruments monétaires et des médailles - art. 9 (M)
 
 
-#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=49></a>
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=44></a>
 
-##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=50></a>
+##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=45></a>
 
-##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=51></a>
+##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=46></a>
 
 ###### Article 207
 
@@ -2585,7 +2573,7 @@ _Abrogé par_:
   - Décret n°95-1137 du 23 octobre 1995 - art. 8 () JORF 28 octobre 1995
 
 
-##### II : Bijoux à tous titres.<a id=52></a>
+##### II : Bijoux à tous titres.<a id=47></a>
 
 ###### Article 218
 
