@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1985-07-15
+Version Consolidée au 1986-03-16
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 23 V 1 à 310 undecies)](#1)
     - [IMPOTS D'ETAT (art. 23 V 1 à 255)](#2)
@@ -1736,22 +1736,30 @@ _Codifié par_:
 
 ###### Article 305 AA
 
-Les contributions prévues pour l'alimentation du fonds de garantie créé au profit des victimes d'accidents d'automobile et
-visé à l'article 1628 quater-I du code général des impôts sont assises et recouvrées dans les conditions suivantes :
+Conformément à l'article R. 420-27 du code des assurances, les contributions prévues pour l'alimentation du fonds de garantie
+créé au profit des victimes d'accidents d'automobile et prévu à l'article 1628 quater du code général des impôts sont assises
+et recouvrées dans les conditions suivantes :
 
-1° La contribution des sociétés d'assurances ou des assureurs est proportionnelle aux primes ou cotisations émises ou à
-émettre par eux, au titre du dernier exercice, y compris les accessoires, pour l'assurance des véhicules mentionnés à
-l'article L. 420-1 du code des assurances et de leurs remorques. Elle est liquidée et recouvrée par le fonds de garantie ;
+1° La contribution des entreprises d'assurance est proportionnelle aux primes ou cotisations du dernier exercice, accessoires
+et rappels compris et annulations déduites, relatives à l'assurance des véhicules terrestres à moteur et des remorques ou
+semi-remorques des véhicules. Elle est liquidée et recouvrée par le fonds de garantie;
 
-2° (Abrogé) ;
+2° La contribution des responsables d'accidents causés par l'utilisation  des véhicules visés au 1°, non bénéficiaire d'une
+assurance, est assise sur le montant total des indemnités mises à leur charge à titre de réparation des dommages résultant de
+ces accidents.
 
-3° La contribution des assurés est assise sur toutes les primes ou cotisations qu'ils versent aux sociétés d'assurances ou
-assureurs mentionnés à l'article L. 420-2 du code des assurances, pour l'assurance des risques de responsabilité civile
-résultant d'accidents causés par les véhicules définis à l'article L. 420-1 dudit code. Elle est perçue par les sociétés ou
-assureurs et recouvrée selon les modalités fixées par un arrêté du ministre de l'économie et des finances (1).
+La contribution est recouvrée sous les mêmes garanties qu'en matière de droits d'enregistrement par la direction générale des
+impôts sur la notification qui lui est faite par le fonds de garantie.
 
-Un décret en Conseil d'Etat détermine les modalités d'assiette de la contribution qui est exigée pour les véhicules étrangers
-(2).
+La contribution doit être acquitée dans un délai d'un mois à compter de la réclamation adressée par la direction générale des
+impôts;
+
+3° La contribution des assurés est assise sur toutes les primes ou cotisations qu'ils versent aux entreprises d'assurance
+mentionnées à l'article L. 420-2 du code des assurances pour l'assurance des risque de responsabilité civile résultant
+d'accidents causés par les véhicules définis au 1°. Elle est perçue par les entreprises d'assurance et recouvrée selon les
+modalités fixées par arrêté du ministre du budget (1).
+
+Un décret en Conseil d'Etat détermine les modalités d'assiette de la contribution éxigée pour les véhicules étrangers (2).
 
 (1) Annexe IV, art. 159 quinquies.
 
@@ -1761,13 +1769,11 @@ Un décret en Conseil d'Etat détermine les modalités d'assiette de la contribu
 
 _Cite_:
 
-  - CGI 1628 quater I
-  - CGIAN1 305 AE
-  - CGIAN1 305 AF
-  - CGIAN1 305 AG
+  - CGI 1628 quater
+  - CGIAN1 305 AE à CGIAN1 305 AG
   - CGIAN4 159 quinquies
-  - Code des assurances - art. L420-1 (M)
   - Code des assurances - art. L420-2 (T)
+  - Code des assurances R420-27
 
 _Nouveaux textes_:
 
@@ -1775,11 +1781,12 @@ _Nouveaux textes_:
 
 _Modifié par_:
 
-  - Décret n°80-621 1980-07-31 ART. 2 JORF 6 AOUT 1980
+  - Décret n°81-30 1981-01-14 art. 3 JORF 18 janvier 1981
+  - Décret n°86-452 du 14 mars 1986 - art. 21 () JORF 16 mars 1986
 
 _Codifié par_:
 
-  - Décret n°81-866 1981-09-15
+  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 305 AB
@@ -1823,12 +1830,10 @@ _Codifié par_:
 ###### Article 305 AC
 
 Sur le montant des encaissements effectués par le service des impôts au titre des contributions visées aux articles 305 AA et
-305 AB, il est opéré un prélèvement de 3 %.
+305 AB, il est opéré un prélèvement de 2 %.
 
-Le produit de ce prélèvement est rattaché au budget des finances (II. Services financiers). Il sert à couvrir, dans les
-limites et conditions qui sont déterminées par un arrêté du ministre de l'économie et des finances, les dépenses de matériel
-et de personnel résultant de l'application de la section I du chapitre unique du titre II du livre IV de la deuxième partie
-du code des assurances.
+Ce prélévement sert à couvrir, dans les limites et conditions fixées par arrêté du ministre chargé des finances, les dépenses
+de matériel et de personnel résultant des recouvrements effectués pour le compte du fonds de garantie.
 
 **Liens relatifs à cet article**
 
@@ -1836,26 +1841,29 @@ _Cite_:
 
   - CGIAN1 305 AA
   - CGIAN1 305 AB
-  - Code des assurances A420-1
 
 _Nouveaux textes_:
 
   - CGIAN2 322 B
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°86-452 du 14 mars 1986 - art. 22 () JORF 16 mars 1986
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 305 AD
 
-Toute personne responsable d'un accident causé par un véhicule étranger et dont la responsabilité n'est pas garantie par une
-assurance dans les conditions définies aux articles R. 211-1 et suivants du code des assurances est tenue au paiement de la
-contribution prévue à l'article 305 AA-2°.
+Toute personne responsable d'un accident dans lequel est impliqué un véhicule à moteur étranger et dont la responsabilité
+n'est pas garantie par une assurance dans les conditions définies aux articles R. 211-1 et suivants du code des assurances
+est tenue au paiement de la contribution prévue à l'article 305 AA-2°.
 
-Lorsque l'accident a été causé par un véhicule appartenant à un Etat étranger pour lequel a été fournie l'attestation prévue
-à l'article R. 211-25 du code précité, la contribution est fixée dans les mêmes conditions que pour les véhicules appartenant
-à l'Etat français.
+Lorsque dans un accident est impliqué un véhicule appartenant à un Etat étranger pour lequel a été fournie l'attestation
+prévue à l'article R. 211-25 du code précité, la contribution est fixée dans les mêmes conditions que pour les véhicules
+appartenant à l'Etat français.
 
 **Liens relatifs à cet article**
 
@@ -1868,22 +1876,22 @@ _Nouveaux textes_:
 
   - CGIAN2 322 C
 
-_Codifié par_:
-
-  - Décret n°85-1007 1985-09-24
-
 _Modifié par_:
 
-  - Décret n°85-1007 1985-09-24 : Code des assurances art. R420-36
+  - Décret n°86-452 du 14 mars 1986 - art. 23 () JORF 16 mars 1986
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
 
 
 ##### CONTRIBUTION POUR LES VEHICULES ETRANGERS.<a id=27></a>
 
 ###### Article 305 AE
 
-Les contrats souscrits, pour l'assurance des risques de responsabilité civile résultant d'accidents causés par des véhicules
-étrangers, auprès des sociétés d'assurances ou assureurs mentionnés à l'article L 420-2 du code des assurances, donnent lieu
-au versement de la contribution prévue à l'article 305 AA-3°.
+Les contrats souscrits, pour l'assurance des risques de responsabilité civile résultant d'accidents dans lesquels sont
+impliqués des véhicules à moteur étrangers, auprès des sociétés d'assurances ou assureurs mentionnés à l'article L 420-2 du
+code des assurances, donnent lieu au versement de la contribution prévue à l'article 305 AA-3°.
 
 **Liens relatifs à cet article**
 
@@ -1896,9 +1904,13 @@ _Nouveaux textes_:
 
   - CGIAN2 322 D
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°86-452 du 14 mars 1986 - art. 24 () JORF 16 mars 1986
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
 
 
 ###### Article 305 AF
