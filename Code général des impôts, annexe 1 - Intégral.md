@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1985-01-01
+Version Consolidée au 1985-07-12
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 23 V 1 à 310 undecies)](#1)
     - [IMPOTS D'ETAT (art. 23 V 1 à 255)](#2)
@@ -8,11 +8,11 @@ Version Consolidée au 1985-01-01
       - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 24)](#5)
         - [TAXE SUR LA VALEUR AJOUTEE *TVA* (art. 24)](#6)
           - [CHAMP D'APPLICATION. (art. 24)](#7)
-      - [CONTRIBUTIONS INDIRECTES (art. 65 à 192)](#8)
-        - [BOISSONS (art. 65 à 192)](#9)
+      - [CONTRIBUTIONS INDIRECTES (art. 65 à 185)](#8)
+        - [BOISSONS (art. 65 à 185)](#9)
           - [PRODUCTION DES ALCOOLS. (art. 65)](#10)
           - [CIRCULATION. (art. 155)](#11)
-          - [REGIMES PARTICULIERS. (art. 185 à 192)](#12)
+          - [REGIMES PARTICULIERS. (art. 185)](#12)
       - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE. (art. 230)](#13)
       - [DROITS DE TIMBRE (art. 234 à 255)](#14)
         - [DROITS DE TIMBRE PROPREMENT DITS. (art. 234 à 238)](#15)
@@ -73,7 +73,7 @@ Version Consolidée au 1985-01-01
               - [Dénaturation des alcools par un procédé spécial. (art. 186 à 189)](#70)
               - [3° : Emploi de l'alcool sans dénaturation préalable (art. 191)](#71)
               - [Emploi de l'alcool sans dénaturation préalable. (art. 190)](#72)
-              - [Dispositions diverses. (art. 193)](#73)
+              - [Dispositions diverses. (art. 192 à 193)](#73)
         - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 204 à 220)](#74)
           - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 204 à 206)](#75)
             - [I : Ouvrages d'or, d'argent et de platine aux titres légaux. (art. 204 à 206)](#76)
@@ -529,19 +529,6 @@ alcools par un procédé différent du procédé général, ou de fabriquer des 
 _Cite_:
 
   - CGIAN1 165, 166, 167, 168, 169, 170, 171, 173, 174, 175, 176, 177, 178
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 192
-
-En cas de cessation de leur industrie ou de retrait de l'autorisation administrative, les dénaturateurs, ainsi que les
-industriels autorisés à employer en franchise des droits de l'alcool sans dénaturation préalable, doivent expédier leur stock
-d'alcool nature à l'industriel désigné par le service des impôts et par la régie commerciale des alcools.
-
-**Liens relatifs à cet article**
 
 **Liens**:
 
@@ -4219,6 +4206,23 @@ _Cite_:
 
 
 ##### Dispositions diverses.<a id=73></a>
+
+###### Article 192
+
+En cas de cessation de leur industrie ou de retrait de l'autorisation administrative, les dénaturateurs, ainsi que les
+industriels autorisés à employer en franchise des droits de l'alcool sans dénaturation préalable, doivent expédier leur stock
+d'alcool nature à l'industriel désigné par le service des impôts.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
 
 ###### Article 193
 
