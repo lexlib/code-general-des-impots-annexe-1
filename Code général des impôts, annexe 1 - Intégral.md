@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1982-01-01
+Version Consolidée au 1982-05-11
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 23 V 1 à 310 undecies)](#1)
     - [IMPOTS D'ETAT (art. 23 V 1 à 255)](#2)
@@ -1950,8 +1950,8 @@ Le produit total de la taxe de balayage ne peut dépasser les dépenses occasion
 superficie des voies livrées à la circulation publique qui incombe aux propriétaires riverains, chacun au droit de sa façade,
 sur une largeur égale à celle de la moitié desdites voies, sans pouvoir, toutefois, excéder six mètres.
 
-Le tarif de la taxe est délibéré en conseil municipal, après enquête, et approuvé par arrêté préfectoral. Il est révisé tous
-les cinq ans.
+Le tarif de la taxe est délibéré en conseil municipal, après enquête, et approuvé par arrêté du commissaire de la République.
+Il est révisé tous les cinq ans.
 
 La valeur des propriétés n'entre pas en compte dans l'établissement de la taxe, qui repose uniquement sur les nécessités de
 la circulation, de la salubrité et de la propreté de la voie publique.
@@ -1961,9 +1961,17 @@ règlements de police en temps de neige et de glace.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Nouveaux textes_:
 
-  - HISTO: EDITION 1979-07-01
+  - CGIAN2 317
+
+_Modifié par_:
+
+  - Décret n°82-389 1982-05-10 ART. 1 JORF 11 MAI 1982
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
 
 
 ### IMPOSITIONS DEPARTEMENTALES<a id=22></a>
