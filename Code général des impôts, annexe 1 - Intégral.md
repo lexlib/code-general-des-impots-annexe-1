@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1984-07-24
+Version Consolidée au 1985-01-01
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 23 V 1 à 310 undecies)](#1)
     - [IMPOTS D'ETAT (art. 23 V 1 à 255)](#2)
@@ -193,7 +193,7 @@ procédés ou formules de fabrication;
 
 En outre, les contribuables passibles de l'impôt sur le revenu sont admis à déduire de leur bénéfice net total, en vue de
 l'assiette du prélèvement, les déficits antérieurs de leur entreprise, dans les conditions prévues à l'article 209-I,
-deuxième alinéa, du code général des impôts.
+troisième alinéa, du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -202,9 +202,17 @@ _Cite_:
   - CGI 209 I AL. 2
   - CGIAN1 23 V 3
 
-**Liens**:
+_Nouveaux textes_:
 
-  - HISTO: EDITION 1979-07-01
+  - CGIAN2 163 quinquies
+
+_Modifié par_:
+
+  - Loi n°84-1208 du 29 décembre 1984 - art. 15 (P) JORF 30 décembre 1984, en vigueur le 1er janvier 1985
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
 
 
 ###### Article 23 V 5
@@ -401,30 +409,39 @@ _Codifié par_:
 
 ###### Article 24
 
-Pour les locations de biens meubles corporels mentionnées au 1° de l'article 259 A du code général des impôts, et les
-prestations de services indiquées à l'article 259 C du même code, le prestataire est tenu d'apporter la preuve que les biens
-loués ou les prestations rendues ont été utilisés en totalité ou en partie, et, le cas échéant, dans quelle proportion :
+(Transféré sous l'article 172 de l'annexe 2 au code général des impôts).
 
-a  En France ou hors de France [*à l'étranger*], s'il s'agit de la location de biens autres que des moyens de transport;
+Pour les locations de moyens de transport mentionnées au 1° de l'article 259 A du code général des impôts, et les prestations
+de services indiquées à l'article 259 C du même code, le prestataire est tenu d'apporter la preuve que les moyens de
+transports loués ou les prestations rendues ont été utilisés en totalité ou en partie, et, le cas échéant, dans quelle
+proportion :
 
-b  En France, dans un autre Etat membre de la Communauté économique européenne ou en dehors de la Communauté [*CEE*], s'il
-s'agit de la location de moyens de transport;
+a. En France, dans un autre Etat membre de la Communauté économique européenne ou en dehors de la Communauté, s'il s'agit de
+la location de moyens de transport ;
 
-c  En France ou hors de France, s'il s'agit des prestations désignées à l'article 259 C.
+b. En France ou hors de France, s'il s'agit de prestations désignées à l'article 259 C précité.
 
-A défaut de cette preuve, les locations de biens meubles corporels et les prestations ci-dessus sont considérées comme
-utilisées en France.
+A défaut, les locations de moyens de transport et les prestations ci-dessus sont considérées comme utilisées en France.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 259 A
+  - CGI 259 A 1°
   - CGI 259 C
 
-**Liens**:
+_Nouveaux textes_:
 
-  - HISTO: EDITION 1979-07-01
+  - CGIAN2 172
+
+_Modifié par_:
+
+  - Loi n°84-1208 1984-12-29 art. 91 II finances pour1985, JORF 30 décembre 1984 en vigueur le 1er janvier 1985) T(Décret 87-940 1987-11-23 JORF 26 novembre 1987 en vigueur le 10 août 1987
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+  - Décret n°87-940 1987-11-23
 
 
 ### CONTRIBUTIONS INDIRECTES<a id=8></a>
