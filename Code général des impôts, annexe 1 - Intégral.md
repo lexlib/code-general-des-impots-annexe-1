@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1983-12-30
+Version Consolidée au 1984-06-07
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 23 V 1 à 310 undecies)](#1)
     - [IMPOTS D'ETAT (art. 23 V 1 à 255)](#2)
@@ -8,81 +8,81 @@ Version Consolidée au 1983-12-30
       - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 24)](#5)
         - [TAXE SUR LA VALEUR AJOUTEE *TVA* (art. 24)](#6)
           - [CHAMP D'APPLICATION. (art. 24)](#7)
-      - [CONTRIBUTIONS INDIRECTES (art. 65 à 218)](#8)
+      - [CONTRIBUTIONS INDIRECTES (art. 65 à 192)](#8)
         - [BOISSONS (art. 65 à 192)](#9)
           - [PRODUCTION DES ALCOOLS. (art. 65)](#10)
           - [CIRCULATION. (art. 155)](#11)
           - [REGIMES PARTICULIERS. (art. 177 à 192)](#12)
-        - [GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE. (art. 204 à 218)](#13)
-      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE. (art. 230)](#14)
-      - [DROITS DE TIMBRE (art. 234 à 255)](#15)
-        - [DROITS DE TIMBRE PROPREMENT DITS. (art. 234 à 238)](#16)
-        - [DROITS DE TIMBRE PROPREMENTS DITS. (art. 237)](#17)
-        - [IMPOT SUR LES OPERATIONS DE BOURSE. (art. 239 à 255)](#18)
-    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 284 à 304)](#19)
-      - [IMPOSITIONS COMMUNALES (art. 284 à 289)](#20)
-        - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 284 à 289)](#21)
-      - [IMPOSITIONS DEPARTEMENTALES (art. 304)](#22)
-        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 304)](#23)
-          - [REDEVANCE DEPARTEMENTALE DES MINES. (art. 304)](#24)
-    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 305 AA à 310 quater)](#25)
-      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 305 AA à 310 quater)](#26)
-        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE. (art. 305 AA à 305 AG)](#27)
-          - [CONTRIBUTION POUR LES VEHICULES ETRANGERS. (art. 305 AE à 305 AG)](#28)
-        - [FONDS NATIONAL DE GARANTIE DES CALAMITES AGRICOLES. (art. 310 quater)](#29)
-    - [DISPOSITIONS COMMUNES AUX IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 310 quinquies à 310 undecies)](#30)
-      - [ASSIETTE ET CONTROLE DE L'ETAT (art. 310 quinquies)](#31)
-        - [OBLIGATIONS DES CONTRIBUABLES (art. 310 quinquies)](#32)
-          - [BONS DE REMIS. (art. 310 quinquies)](#33)
-      - [ASSIETTE ET CONTROLE DE L'IMPOT (art. 310 decies à 310 undecies)](#34)
-        - [OBLIGATIONS DES CONTRIBUABLES (art. 310 decies à 310 undecies)](#35)
-          - [BONS DE REMIS. (art. 310 decies à 310 undecies)](#36)
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 211)](#37)
-    - [Première partie : Impôts d'État (art. 27 à 211)](#38)
-      - [Titre III : Contributions indirectes et monopoles fiscaux (art. 27 à 211)](#39)
-        - [Chapitre premier : Boissons (art. 27 à 193)](#40)
-          - [Section I : Production des alcools (art. 27 à 91)](#41)
-            - [I : Réglementation des alambics (art. 27 à 33)](#42)
-            - [III : Bouilleurs de cru (art. 37 à 56)](#43)
-              - [Généralités. (art. 37)](#44)
-              - [2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation (art. 38 à 47)](#45)
-              - [Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation. (art. 39 à 40)](#46)
-              - [Bouilleurs de cru faisant distiller dans un atelier public. (art. 48 à 50)](#47)
-              - [3° : Bouilleurs de cru faisant distiller dans un atelier public (art. 49 à 53)](#48)
-              - [4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale (art. 55)](#49)
-              - [Bouilleurs de cru distillant en brûlerie coopérative ou syndicale. (art. 54)](#50)
-              - [5° : Dispositions communes (art. 56)](#51)
-            - [IV : Règlement des distilleries (art. 57 à 91)](#52)
-              - [1° : Généralités (art. 57)](#53)
-              - [Régime général. (art. 58 à 75)](#54)
-              - [2° : Régime général (art. 72 à 78)](#55)
-              - [3° : Régime spécial (art. 79 à 88)](#56)
-              - [Régime spécial (art. 81 à 87)](#57)
-              - [Dispositions communes (art. 89 à 90)](#58)
-              - [4° : Dispositions communes. (art. 91)](#59)
-          - [Section II : Circulation (art. 156)](#60)
-            - [II : Dispositions spéciales aux alcools (art. 156)](#61)
-              - [Epalement des réservoirs (art. 156)](#62)
-          - [Section III : Commerce (art. 159 à 164)](#63)
-            - [I : Calcul des déductions. (art. 159)](#64)
-            - [II : Spiritueux composés - Déduction complémentaire. (art. 160 à 164)](#65)
-          - [Section IV : Régimes particuliers (art. 166 à 193)](#66)
-            - [I : Alcools dénaturés (art. 166 à 193)](#67)
-              - [1° : Dénaturation des alcools par le procédé général (art. 166 à 182)](#68)
-              - [Dénaturation des alcools par le procédé général. (art. 165 à 184)](#69)
-              - [2° : Dénaturation des alcools par un procédé spécial (art. 187 à 188)](#70)
-              - [Dénaturation des alcools par un procédé spécial. (art. 186 à 189)](#71)
-              - [3° : Emploi de l'alcool sans dénaturation préalable (art. 191)](#72)
-              - [Emploi de l'alcool sans dénaturation préalable. (art. 190)](#73)
-              - [Dispositions diverses. (art. 193)](#74)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 206 à 220)](#75)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 206)](#76)
-            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux. (art. 206)](#77)
-          - [Exportation (art. 213 à 220)](#78)
-            - [II : Bijoux à tous titres (art. 213 à 220)](#79)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 207 à 211)](#80)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 207 à 211)](#81)
-            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 207 à 211)](#82)
+      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE. (art. 230)](#13)
+      - [DROITS DE TIMBRE (art. 234 à 255)](#14)
+        - [DROITS DE TIMBRE PROPREMENT DITS. (art. 234 à 238)](#15)
+        - [DROITS DE TIMBRE PROPREMENTS DITS. (art. 237)](#16)
+        - [IMPOT SUR LES OPERATIONS DE BOURSE. (art. 239 à 255)](#17)
+    - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 284 à 304)](#18)
+      - [IMPOSITIONS COMMUNALES (art. 284 à 289)](#19)
+        - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 284 à 289)](#20)
+      - [IMPOSITIONS DEPARTEMENTALES (art. 304)](#21)
+        - [IMPOTS DIRECTS ET TAXES ASSIMILEES (art. 304)](#22)
+          - [REDEVANCE DEPARTEMENTALE DES MINES. (art. 304)](#23)
+    - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS (art. 305 AA à 310 quater)](#24)
+      - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (art. 305 AA à 310 quater)](#25)
+        - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE. (art. 305 AA à 305 AG)](#26)
+          - [CONTRIBUTION POUR LES VEHICULES ETRANGERS. (art. 305 AE à 305 AG)](#27)
+        - [FONDS NATIONAL DE GARANTIE DES CALAMITES AGRICOLES. (art. 310 quater)](#28)
+    - [DISPOSITIONS COMMUNES AUX IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 310 quinquies à 310 undecies)](#29)
+      - [ASSIETTE ET CONTROLE DE L'ETAT (art. 310 quinquies)](#30)
+        - [OBLIGATIONS DES CONTRIBUABLES (art. 310 quinquies)](#31)
+          - [BONS DE REMIS. (art. 310 quinquies)](#32)
+      - [ASSIETTE ET CONTROLE DE L'IMPOT (art. 310 decies à 310 undecies)](#33)
+        - [OBLIGATIONS DES CONTRIBUABLES (art. 310 decies à 310 undecies)](#34)
+          - [BONS DE REMIS. (art. 310 decies à 310 undecies)](#35)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 218)](#36)
+    - [Première partie : Impôts d'État (art. 27 à 218)](#37)
+      - [Titre III : Contributions indirectes et monopoles fiscaux (art. 27 à 218)](#38)
+        - [Chapitre premier : Boissons (art. 27 à 193)](#39)
+          - [Section I : Production des alcools (art. 27 à 91)](#40)
+            - [I : Réglementation des alambics (art. 27 à 33)](#41)
+            - [III : Bouilleurs de cru (art. 37 à 56)](#42)
+              - [Généralités. (art. 37)](#43)
+              - [2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation (art. 38 à 47)](#44)
+              - [Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation. (art. 39 à 40)](#45)
+              - [Bouilleurs de cru faisant distiller dans un atelier public. (art. 48 à 50)](#46)
+              - [3° : Bouilleurs de cru faisant distiller dans un atelier public (art. 49 à 53)](#47)
+              - [4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale (art. 55)](#48)
+              - [Bouilleurs de cru distillant en brûlerie coopérative ou syndicale. (art. 54)](#49)
+              - [5° : Dispositions communes (art. 56)](#50)
+            - [IV : Règlement des distilleries (art. 57 à 91)](#51)
+              - [1° : Généralités (art. 57)](#52)
+              - [Régime général. (art. 58 à 75)](#53)
+              - [2° : Régime général (art. 72 à 78)](#54)
+              - [3° : Régime spécial (art. 79 à 88)](#55)
+              - [Régime spécial (art. 81 à 87)](#56)
+              - [Dispositions communes (art. 89 à 90)](#57)
+              - [4° : Dispositions communes. (art. 91)](#58)
+          - [Section II : Circulation (art. 156)](#59)
+            - [II : Dispositions spéciales aux alcools (art. 156)](#60)
+              - [Epalement des réservoirs (art. 156)](#61)
+          - [Section III : Commerce (art. 159 à 164)](#62)
+            - [I : Calcul des déductions. (art. 159)](#63)
+            - [II : Spiritueux composés - Déduction complémentaire. (art. 160 à 164)](#64)
+          - [Section IV : Régimes particuliers (art. 166 à 193)](#65)
+            - [I : Alcools dénaturés (art. 166 à 193)](#66)
+              - [1° : Dénaturation des alcools par le procédé général (art. 166 à 182)](#67)
+              - [Dénaturation des alcools par le procédé général. (art. 165 à 184)](#68)
+              - [2° : Dénaturation des alcools par un procédé spécial (art. 187 à 188)](#69)
+              - [Dénaturation des alcools par un procédé spécial. (art. 186 à 189)](#70)
+              - [3° : Emploi de l'alcool sans dénaturation préalable (art. 191)](#71)
+              - [Emploi de l'alcool sans dénaturation préalable. (art. 190)](#72)
+              - [Dispositions diverses. (art. 193)](#73)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 204 à 220)](#74)
+          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 204 à 206)](#75)
+            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux. (art. 204 à 206)](#76)
+          - [Exportation (art. 213 à 220)](#77)
+            - [II : Bijoux à tous titres (art. 213 à 220)](#78)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 207 à 218)](#79)
+          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 207 à 218)](#80)
+            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 207 à 211)](#81)
+            - [II : Bijoux à tous titres. (art. 218)](#82)
 # ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=1></a>
 
 ## IMPOTS D'ETAT<a id=2></a>
@@ -589,117 +589,7 @@ d'alcool nature à l'industriel désigné par le service des impôts et par la r
   - HISTO: EDITION 1979-07-01
 
 
-#### GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE.<a id=13></a>
-
-###### Article 204
-
-Tout fabricant qui veut exporter des ouvrages d'or, d'argent ou de platine en franchise du droit de garantie et sans
-apposition des poinçons français peut les présenter à l'essai, achevés et sans marque du poinçon de maître, à condition
-d'avoir déclaré préalablement au bureau de garantie, le nombre, l'espèce et le poids desdits ouvrages et de s'être engagé à
-les y apporter achevés dans un délai n'excédant pas dix jours.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code général des impôts annexe 1, CGIAN1. - art. 206 (V)
-  - Code général des impôts annexe 1, CGIAN1. - art. 208 (V)
-  - Code général des impôts, CGI. - art. 547 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 205
-
-Toutefois, les ouvrages d'orfèvrerie qui ne pourraient être essayés sans détérioration s'ils étaient achevés sont apportés
-bruts au bureau de garantie, soumis à l'essai et remis ensuite au fabricant pour en terminer la fabrication si celui-ci
-s'engage à les rapporter achevés dans le délai de dix jours.
-
-Les ouvrages ainsi rapportés après achèvement sont vérifiés par le service de la garantie qui s'assure de leur identité.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 215
-
-Les ouvrages d'or, d'argent et de platine à tous titres doivent être revêtus du poinçon visé à l'article 213 dès la fin de la
-fabrication et avant tout polissage ou vernissage.
-
-Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le fabricant sur un registre, mis gratuitement à sa
-disposition par l'administration et qui doit être représenté à toute réquisition des agents.
-
-L'inscription au registre présente la nature des objets par espèce de métal (or, argent ou platine) leur nombre, leur titre,
-leur poids brut, et, pour les objets composés de pièces rapportées de métaux différents, le poids de chaque espèce de métal.
-
-Le fabricant est tenu d'inscrire également, après le polissage, le poids net des ouvrages pour servir de base à la prise en
-charge.
-
-Le premier de chaque mois, le fabricant doit remettre au bureau de la garantie un relevé, même négatif, des objets inscrits
-sur ce registre pendant le mois précédent.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 213
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Modifié par_:
-
-  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
-
-
-###### Article 218
-
-Les fabricants et marchands exportateurs qui en font la demande peuvent être dispensés par autorisation individuelle des
-formalités prévues à l'article 217, deuxième et troisième alinéas, sous réserve :
-
-1° Qu'ils inscrivent sur le registre tenu en exécution de l'article 215, au fur et à mesure des livraisons, le titre, le
-nombre par espèce d'objets semblables et le poids net des ouvrages expédiés à l'étranger ou à un autre marchand jouissant de
-la même autorisation, avec l'indication du nom et de l'adresse du destinataire, et que ces indications soient reproduites sur
-le relevé mensuel fourni au bureau de garantie en exécution dudit article 215.
-
-Pour les expéditions à l'étranger ces indications sont complétées par celle de la valeur des ouvrages;
-
-2° Que chaque livraison faite par un fabricant ou marchand exportateur muni de l'autorisation susvisée à un autre marchand
-exportateur, également muni de cette autorisation, donne lieu à l'échange d'un avis de livraison et d'un accusé de réception,
-signés et datés, le premier par l'expéditeur, et le deuxième par le destinataire, chacune de ces pièces reproduisant les
-mentions prescrites par le 1°, et que les intéressés soient tenus de représenter ces pièces pendant le délai d'un an, à toute
-réquisition des agents de la garantie.
-
-Les autorisations accordées en exécution du présent article sont renouvelables au 1er janvier de chaque année. Elles sont
-révocables en tout temps.
-
-L'application des dispositions du présent article est suspendue provisoirement par l'article 4 de la loi du 16 octobre 1940,
-jusqu'à ce qu'il en soit décidé autrement par décret.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 215
-  - CGIAN1 217 AL. 2, AL. 3
-  - Loi n°1940-10-16 ART. 4
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Modifié par_:
-
-  - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
-
-
-### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE.<a id=14></a>
+### DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE.<a id=13></a>
 
 ###### Article 230
 
@@ -723,9 +613,9 @@ _Nouveaux textes_:
   - HISTO: EDITION 1979-07-01
 
 
-### DROITS DE TIMBRE<a id=15></a>
+### DROITS DE TIMBRE<a id=14></a>
 
-#### DROITS DE TIMBRE PROPREMENT DITS.<a id=16></a>
+#### DROITS DE TIMBRE PROPREMENT DITS.<a id=15></a>
 
 ###### Article 234
 
@@ -807,7 +697,7 @@ _Nouveaux textes_:
   - HISTO: EDITION 1979-07-01
 
 
-#### DROITS DE TIMBRE PROPREMENTS DITS.<a id=17></a>
+#### DROITS DE TIMBRE PROPREMENTS DITS.<a id=16></a>
 
 ###### Article 237
 
@@ -825,7 +715,7 @@ _Nouveaux textes_:
   - HISTO: EDITION 1979-07-01
 
 
-#### IMPOT SUR LES OPERATIONS DE BOURSE.<a id=18></a>
+#### IMPOT SUR LES OPERATIONS DE BOURSE.<a id=17></a>
 
 ###### Article 239
 
@@ -1676,11 +1566,11 @@ _Nouveaux textes_:
   - HISTO: EDITION 1979-07-01
 
 
-## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=19></a>
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=18></a>
 
-### IMPOSITIONS COMMUNALES<a id=20></a>
+### IMPOSITIONS COMMUNALES<a id=19></a>
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=21></a>
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=20></a>
 
 ###### Article 284
 
@@ -1858,11 +1748,11 @@ _Codifié par_:
   - Décret n°83-899 1983-10-06
 
 
-### IMPOSITIONS DEPARTEMENTALES<a id=22></a>
+### IMPOSITIONS DEPARTEMENTALES<a id=21></a>
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=23></a>
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES<a id=22></a>
 
-##### REDEVANCE DEPARTEMENTALE DES MINES.<a id=24></a>
+##### REDEVANCE DEPARTEMENTALE DES MINES.<a id=23></a>
 
 ###### Article 304
 
@@ -1892,11 +1782,11 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=25></a>
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS<a id=24></a>
 
-### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=26></a>
+### ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE<a id=25></a>
 
-#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.<a id=27></a>
+#### FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.<a id=26></a>
 
 ###### Article 305 AA
 
@@ -2003,7 +1893,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### CONTRIBUTION POUR LES VEHICULES ETRANGERS.<a id=28></a>
+##### CONTRIBUTION POUR LES VEHICULES ETRANGERS.<a id=27></a>
 
 ###### Article 305 AE
 
@@ -2074,7 +1964,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-#### FONDS NATIONAL DE GARANTIE DES CALAMITES AGRICOLES.<a id=29></a>
+#### FONDS NATIONAL DE GARANTIE DES CALAMITES AGRICOLES.<a id=28></a>
 
 ###### Article 310 quater
 
@@ -2105,13 +1995,13 @@ _Nouveaux textes_:
   - HISTO: EDITION 1979-07-01
 
 
-## DISPOSITIONS COMMUNES AUX IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=30></a>
+## DISPOSITIONS COMMUNES AUX IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=29></a>
 
-### ASSIETTE ET CONTROLE DE L'ETAT<a id=31></a>
+### ASSIETTE ET CONTROLE DE L'ETAT<a id=30></a>
 
-#### OBLIGATIONS DES CONTRIBUABLES<a id=32></a>
+#### OBLIGATIONS DES CONTRIBUABLES<a id=31></a>
 
-##### BONS DE REMIS.<a id=33></a>
+##### BONS DE REMIS.<a id=32></a>
 
 ###### Article 310 quinquies
 
@@ -2147,11 +2037,11 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### ASSIETTE ET CONTROLE DE L'IMPOT<a id=34></a>
+### ASSIETTE ET CONTROLE DE L'IMPOT<a id=33></a>
 
-#### OBLIGATIONS DES CONTRIBUABLES<a id=35></a>
+#### OBLIGATIONS DES CONTRIBUABLES<a id=34></a>
 
-##### BONS DE REMIS.<a id=36></a>
+##### BONS DE REMIS.<a id=35></a>
 
 ###### Article 310 decies
 
@@ -2305,17 +2195,17 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-# Livre premier : Assiette et liquidation de l'impôt<a id=37></a>
+# Livre premier : Assiette et liquidation de l'impôt<a id=36></a>
 
-## Première partie : Impôts d'État<a id=38></a>
+## Première partie : Impôts d'État<a id=37></a>
 
-### Titre III : Contributions indirectes et monopoles fiscaux<a id=39></a>
+### Titre III : Contributions indirectes et monopoles fiscaux<a id=38></a>
 
-#### Chapitre premier : Boissons<a id=40></a>
+#### Chapitre premier : Boissons<a id=39></a>
 
-##### Section I : Production des alcools<a id=41></a>
+##### Section I : Production des alcools<a id=40></a>
 
-##### I : Réglementation des alambics<a id=42></a>
+##### I : Réglementation des alambics<a id=41></a>
 
 ###### Article 27
 
@@ -2433,9 +2323,9 @@ La destruction ne peut avoir lieu qu'en présence des agents, qui en dressent pr
   - HISTO: EDITION 1979-07-01
 
 
-##### III : Bouilleurs de cru<a id=43></a>
+##### III : Bouilleurs de cru<a id=42></a>
 
-##### Généralités.<a id=44></a>
+##### Généralités.<a id=43></a>
 
 ###### Article 37
 
@@ -2479,7 +2369,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
 
 
-##### 2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation<a id=45></a>
+##### 2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation<a id=44></a>
 
 ###### Article 38
 
@@ -2677,7 +2567,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation.<a id=46></a>
+##### Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation.<a id=45></a>
 
 ###### Article 39
 
@@ -2761,7 +2651,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Bouilleurs de cru faisant distiller dans un atelier public.<a id=47></a>
+##### Bouilleurs de cru faisant distiller dans un atelier public.<a id=46></a>
 
 ###### Article 48
 
@@ -2825,7 +2715,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-##### 3° : Bouilleurs de cru faisant distiller dans un atelier public<a id=48></a>
+##### 3° : Bouilleurs de cru faisant distiller dans un atelier public<a id=47></a>
 
 ###### Article 49
 
@@ -2894,7 +2784,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### 4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale<a id=49></a>
+##### 4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale<a id=48></a>
 
 ###### Article 55
 
@@ -2922,7 +2812,7 @@ _Cite_:
   - CGIAN1 47
 
 
-##### Bouilleurs de cru distillant en brûlerie coopérative ou syndicale.<a id=50></a>
+##### Bouilleurs de cru distillant en brûlerie coopérative ou syndicale.<a id=49></a>
 
 ###### Article 54
 
@@ -2952,7 +2842,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 5° : Dispositions communes<a id=51></a>
+##### 5° : Dispositions communes<a id=50></a>
 
 ###### Article 56
 
@@ -2982,9 +2872,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
 
 
-##### IV : Règlement des distilleries<a id=52></a>
+##### IV : Règlement des distilleries<a id=51></a>
 
-##### 1° : Généralités<a id=53></a>
+##### 1° : Généralités<a id=52></a>
 
 ###### Article 57
 
@@ -3029,7 +2919,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Régime général.<a id=54></a>
+##### Régime général.<a id=53></a>
 
 ###### Article 58
 
@@ -3368,7 +3258,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 51 septies J (V)
 
 
-##### 2° : Régime général<a id=55></a>
+##### 2° : Régime général<a id=54></a>
 
 ###### Article 72
 
@@ -3443,7 +3333,7 @@ la qualité de l'alcool obtenu.
   - HISTO: EDITION 1979-07-01
 
 
-##### 3° : Régime spécial<a id=56></a>
+##### 3° : Régime spécial<a id=55></a>
 
 ###### Article 79
 
@@ -3567,7 +3457,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Régime spécial<a id=57></a>
+##### Régime spécial<a id=56></a>
 
 ###### Article 81
 
@@ -3658,7 +3548,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Dispositions communes<a id=58></a>
+##### Dispositions communes<a id=57></a>
 
 ###### Article 89
 
@@ -3693,7 +3583,7 @@ L'exploitant est tenu de se conformer aux indications reçues.
   - HISTO: EDITION 1979-07-01
 
 
-##### 4° : Dispositions communes.<a id=59></a>
+##### 4° : Dispositions communes.<a id=58></a>
 
 ###### Article 91
 
@@ -3715,11 +3605,11 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Section II : Circulation<a id=60></a>
+##### Section II : Circulation<a id=59></a>
 
-##### II : Dispositions spéciales aux alcools<a id=61></a>
+##### II : Dispositions spéciales aux alcools<a id=60></a>
 
-##### Epalement des réservoirs<a id=62></a>
+##### Epalement des réservoirs<a id=61></a>
 
 ###### Article 156
 
@@ -3732,9 +3622,9 @@ Toute modification de la contenance des réservoirs doit être précédée d'une
 
 
 
-##### Section III : Commerce<a id=63></a>
+##### Section III : Commerce<a id=62></a>
 
-##### I : Calcul des déductions.<a id=64></a>
+##### I : Calcul des déductions.<a id=63></a>
 
 ###### Article 159
 
@@ -3758,7 +3648,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### II : Spiritueux composés - Déduction complémentaire.<a id=65></a>
+##### II : Spiritueux composés - Déduction complémentaire.<a id=64></a>
 
 ###### Article 160
 
@@ -3860,11 +3750,11 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Section IV : Régimes particuliers<a id=66></a>
+##### Section IV : Régimes particuliers<a id=65></a>
 
-##### I : Alcools dénaturés<a id=67></a>
+##### I : Alcools dénaturés<a id=66></a>
 
-##### 1° : Dénaturation des alcools par le procédé général<a id=68></a>
+##### 1° : Dénaturation des alcools par le procédé général<a id=67></a>
 
 ###### Article 166
 
@@ -4050,7 +3940,7 @@ rectification, ou ceux qui sont affectés à la fabrication ou au commerce en gr
 
 
 
-##### Dénaturation des alcools par le procédé général.<a id=69></a>
+##### Dénaturation des alcools par le procédé général.<a id=68></a>
 
 ###### Article 165
 
@@ -4250,7 +4140,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 2° : Dénaturation des alcools par un procédé spécial<a id=70></a>
+##### 2° : Dénaturation des alcools par un procédé spécial<a id=69></a>
 
 ###### Article 187
 
@@ -4289,7 +4179,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Dénaturation des alcools par un procédé spécial.<a id=71></a>
+##### Dénaturation des alcools par un procédé spécial.<a id=70></a>
 
 ###### Article 186
 
@@ -4334,7 +4224,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 3° : Emploi de l'alcool sans dénaturation préalable<a id=72></a>
+##### 3° : Emploi de l'alcool sans dénaturation préalable<a id=71></a>
 
 ###### Article 191
 
@@ -4343,7 +4233,7 @@ transformé.
 
 
 
-##### Emploi de l'alcool sans dénaturation préalable.<a id=73></a>
+##### Emploi de l'alcool sans dénaturation préalable.<a id=72></a>
 
 ###### Article 190
 
@@ -4369,7 +4259,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Dispositions diverses.<a id=74></a>
+##### Dispositions diverses.<a id=73></a>
 
 ###### Article 193
 
@@ -4386,11 +4276,54 @@ dépositaires.
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=75></a>
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=74></a>
 
-##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=76></a>
+##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=75></a>
 
-##### I : Ouvrages d'or, d'argent et de platine aux titres légaux.<a id=77></a>
+##### I : Ouvrages d'or, d'argent et de platine aux titres légaux.<a id=76></a>
+
+###### Article 204
+
+Tout fabricant qui veut exporter des ouvrages d'or, d'argent ou de platine en franchise du droit de garantie et sans
+apposition des poinçons français peut les présenter à l'essai, achevés et sans marque du poinçon de maître, à condition
+d'avoir déclaré préalablement au bureau de garantie, le nombre, l'espèce et le poids desdits ouvrages et de s'être engagé à
+les y apporter achevés dans un délai n'excédant pas trente jours.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°84-423 du 30 mai 1984 - art. 2 (V) JORF 7 juin 1984
+
+_Codifié par_:
+
+  - Décret n°94-899 1994-10-17
+
+_Cité par_:
+
+  - Code général des impôts annexe 1, CGIAN1. - art. 206 (V)
+  - Code général des impôts annexe 1, CGIAN1. - art. 208 (V)
+  - Code général des impôts, CGI. - art. 547 (V)
+
+
+###### Article 205
+
+Toutefois, les ouvrages d'orfèvrerie qui ne pourraient être essayés sans détérioration s'ils étaient achevés sont apportés
+bruts au bureau de garantie, soumis à l'essai et remis ensuite au fabricant pour en terminer la fabrication si celui-ci
+s'engage à les rapporter achevés dans le délai de trente jours.
+
+Les ouvrages ainsi rapportés après achèvement sont vérifiés par le service de la garantie qui s'assure de leur identité.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°84-423 du 30 mai 1984 - art. 2 (V) JORF 7 juin 1984
+
+_Codifié par_:
+
+  - Décret n°94-899 1994-10-17
+
 
 ###### Article 206
 
@@ -4413,9 +4346,9 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Exportation<a id=78></a>
+##### Exportation<a id=77></a>
 
-##### II : Bijoux à tous titres<a id=79></a>
+##### II : Bijoux à tous titres<a id=78></a>
 
 ###### Article 213
 
@@ -4465,6 +4398,38 @@ insculper au bureau de la garantie dont il dépend le poinçon de maître destin
 _Modifié par_:
 
   - Loi n°83-558 du 1 juillet 1983 - art. 9 () JORF 2 JUILLET 1983
+
+
+###### Article 215
+
+Les ouvrages d'or, d'argent et de platine à tous titres doivent être revêtus du poinçon visé à l'article 213 dès la fin de la
+fabrication et avant tout polissage ou vernissage.
+
+Les ouvrages qui ne sont pas marqués de ce poinçon en application des dispositions de l'article 545 du code général des
+impôts doivent exportés dans un délai n'excédant pas trente jours. A défaut, ils sont revêtus du poinçon de maître.
+
+Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le fabricant sur un registre, mis gratuitement à sa
+disposition par l'administration et qui doit être représenté à toute réquisition des agents.
+
+L'inscription au registre présente la nature des objets par espèce de métal (or, argent ou platine) leur nombre, leur titre,
+leur poids brut, et, pour les objets composés de pièces rapportées de métaux différents, le poids de chaque espèce de métal.
+
+Le fabricant est tenu d'inscrire également, après le polissage, le poids net des ouvrages pour servir de base à la prise en
+charge.
+
+Le premier de chaque mois, le fabricant doit remettre au bureau de la garantie un relevé, même négatif, des objets inscrits
+sur ce registre pendant le mois précédent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 545
+  - CGIAN1 213
+
+_Modifié par_:
+
+  - Décret n°84-423 du 30 mai 1984 - art. 3 (V) JORF 7 juin 1984
 
 
 ###### Article 216
@@ -4570,11 +4535,11 @@ _Cite_:
   - Code des instruments monétaires et des médailles - art. 9 (M)
 
 
-#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=80></a>
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=79></a>
 
-##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=81></a>
+##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=80></a>
 
-##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=82></a>
+##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=81></a>
 
 ###### Article 207
 
@@ -4689,5 +4654,47 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°95-1137 du 23 octobre 1995 - art. 8 () JORF 28 octobre 1995
+
+
+##### II : Bijoux à tous titres.<a id=82></a>
+
+###### Article 218
+
+Les fabricants et marchands exportateurs qui en font la demande peuvent être dispensés par autorisation individuelle des
+formalités prévues à l'article 217, deuxième et troisième alinéas, sous réserve :
+
+1° Qu'ils inscrivent sur le registre tenu en exécution de l'article 215, au fur et à mesure des livraisons, le titre, le
+nombre par espèce d'objets semblables et le poids net des ouvrages expédiés à l'étranger ou à un autre marchand jouissant de
+la même autorisation, avec l'indication du nom et de l'adresse du destinataire, et que ces indications soient reproduites sur
+le relevé mensuel fourni au bureau de garantie en exécution dudit article 215.
+
+Pour les expéditions à l'étranger ces indications sont complétées par celle de la valeur des ouvrages;
+
+2° Que chaque livraison faite par un fabricant ou marchand exportateur muni de l'autorisation susvisée à un autre marchand
+exportateur, également muni de cette autorisation, donne lieu à l'échange d'un avis de livraison et d'un accusé de réception,
+signés et datés, le premier par l'expéditeur, et le deuxième par le destinataire, chacune de ces pièces reproduisant les
+mentions prescrites par le 1°, et que les intéressés soient tenus de représenter ces pièces pendant le délai d'un an, à toute
+réquisition des agents de la garantie.
+
+Les autorisations accordées en exécution du présent article sont renouvelables au 1er janvier de chaque année. Elles sont
+révocables en tout temps.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN1 217, 215
+
+_Modifié par_:
+
+  - Décret n°84-423 du 30 mai 1984 - art. 4 (V) JORF 7 juin 1984
+
+_Codifié par_:
+
+  - Décret n°94-899 1994-10-17
+
+**Liens**:
+
+  - HISTO: Edition du 2 septembre 1994
 
 
