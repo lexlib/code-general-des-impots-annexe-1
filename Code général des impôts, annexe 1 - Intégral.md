@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 1981-07-01
+Version Consolidée au 1982-01-01
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 23 V 1 à 310 undecies)](#1)
     - [IMPOTS D'ETAT (art. 23 V 1 à 255)](#2)
@@ -8,13 +8,13 @@ Version Consolidée au 1981-07-01
       - [TAXES SUR LE CHIFFRE D'AFFAIRES (art. 24)](#5)
         - [TAXE SUR LA VALEUR AJOUTEE *TVA* (art. 24)](#6)
           - [CHAMP D'APPLICATION. (art. 24)](#7)
-      - [CONTRIBUTIONS INDIRECTES (art. 28 à 219)](#8)
-        - [BOISSONS (art. 28 à 192)](#9)
-          - [PRODUCTION DES ALCOOLS. (art. 28 à 89)](#10)
+      - [CONTRIBUTIONS INDIRECTES (art. 65 à 219)](#8)
+        - [BOISSONS (art. 65 à 192)](#9)
+          - [PRODUCTION DES ALCOOLS. (art. 65)](#10)
           - [CIRCULATION. (art. 155)](#11)
           - [REGIMES PARTICULIERS. (art. 177 à 192)](#12)
         - [GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE. (art. 204 à 219)](#13)
-      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE. (art. 230 à 233)](#14)
+      - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE. (art. 230)](#14)
       - [DROITS DE TIMBRE (art. 234 à 255)](#15)
         - [DROITS DE TIMBRE PROPREMENT DITS. (art. 234 à 238)](#16)
         - [DROITS DE TIMBRE PROPREMENTS DITS. (art. 237)](#17)
@@ -30,59 +30,59 @@ Version Consolidée au 1981-07-01
         - [FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE. (art. 305 AA à 305 AG)](#27)
           - [CONTRIBUTION POUR LES VEHICULES ETRANGERS. (art. 305 AE à 305 AG)](#28)
         - [FONDS NATIONAL DE GARANTIE DES CALAMITES AGRICOLES. (art. 310 quater)](#29)
-    - [DISPOSITIONS COMMUNES AUX IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 310 decies à 310 undecies)](#30)
-      - [ASSIETTE ET CONTROLE DE L'IMPOT (art. 310 decies à 310 undecies)](#31)
-        - [OBLIGATIONS DES CONTRIBUABLES (art. 310 decies à 310 undecies)](#32)
-          - [BONS DE REMIS. (art. 310 decies à 310 undecies)](#33)
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 211)](#34)
-    - [Première partie : Impôts d'État (art. 27 à 211)](#35)
-      - [Titre III : Contributions indirectes et monopoles fiscaux (art. 27 à 211)](#36)
-        - [Chapitre premier : Boissons (art. 27 à 193)](#37)
-          - [Section I : Production des alcools (art. 27 à 91)](#38)
-            - [I : Réglementation des alambics (art. 27 à 33)](#39)
-            - [III : Bouilleurs de cru (art. 38 à 56)](#40)
-              - [2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation (art. 38 à 47)](#41)
-              - [Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation. (art. 39 à 40)](#42)
-              - [Bouilleurs de cru faisant distiller dans un atelier public. (art. 48 à 50)](#43)
-              - [3° : Bouilleurs de cru faisant distiller dans un atelier public (art. 49 à 53)](#44)
-              - [4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale (art. 55)](#45)
-              - [Bouilleurs de cru distillant en brûlerie coopérative ou syndicale. (art. 54)](#46)
-              - [5° : Dispositions communes (art. 56)](#47)
-            - [IV : Règlement des distilleries (art. 57 à 91)](#48)
-              - [1° : Généralités (art. 57)](#49)
-              - [Régime général. (art. 58 à 75)](#50)
-              - [2° : Régime général (art. 72 à 78)](#51)
-              - [3° : Régime spécial (art. 80 à 88)](#52)
-              - [Régime spécial (art. 81 à 87)](#53)
-              - [Dispositions communes (art. 90)](#54)
-              - [4° : Dispositions communes. (art. 91)](#55)
-          - [Section II : Circulation (art. 156)](#56)
-            - [II : Dispositions spéciales aux alcools (art. 156)](#57)
-              - [Epalement des réservoirs (art. 156)](#58)
-          - [Section III : Commerce (art. 159 à 164)](#59)
-            - [I : Calcul des déductions. (art. 159)](#60)
-            - [II : Spiritueux composés - Déduction complémentaire. (art. 160 à 164)](#61)
-          - [Section IV : Régimes particuliers (art. 166 à 193)](#62)
-            - [I : Alcools dénaturés (art. 166 à 193)](#63)
-              - [1° : Dénaturation des alcools par le procédé général (art. 166 à 182)](#64)
-              - [Dénaturation des alcools par le procédé général. (art. 165 à 184)](#65)
-              - [2° : Dénaturation des alcools par un procédé spécial (art. 187 à 188)](#66)
-              - [Dénaturation des alcools par un procédé spécial. (art. 186 à 189)](#67)
-              - [3° : Emploi de l'alcool sans dénaturation préalable (art. 191)](#68)
-              - [Emploi de l'alcool sans dénaturation préalable. (art. 190)](#69)
-              - [Dispositions diverses. (art. 193)](#70)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 206 à 220)](#71)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 206)](#72)
-            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux. (art. 206)](#73)
-          - [Exportation (art. 213 à 220)](#74)
-            - [II : Bijoux à tous titres (art. 213 à 220)](#75)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 207 à 211)](#76)
-          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 207 à 211)](#77)
-            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 207 à 211)](#78)
-  - [RECOUVREMENT DE L'IMPOT (art. 325)](#79)
-    - [PROCEDURES (art. 325)](#80)
-      - [CONTENTIEUX DE LA REPRESSION (art. 325)](#81)
-        - [AGENTS APTES A VERBALISER. (art. 325)](#82)
+    - [DISPOSITIONS COMMUNES AUX IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES (art. 310 quinquies à 310 undecies)](#30)
+      - [ASSIETTE ET CONTROLE DE L'ETAT (art. 310 quinquies)](#31)
+        - [OBLIGATIONS DES CONTRIBUABLES (art. 310 quinquies)](#32)
+          - [BONS DE REMIS. (art. 310 quinquies)](#33)
+      - [ASSIETTE ET CONTROLE DE L'IMPOT (art. 310 decies à 310 undecies)](#34)
+        - [OBLIGATIONS DES CONTRIBUABLES (art. 310 decies à 310 undecies)](#35)
+          - [BONS DE REMIS. (art. 310 decies à 310 undecies)](#36)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 211)](#37)
+    - [Première partie : Impôts d'État (art. 27 à 211)](#38)
+      - [Titre III : Contributions indirectes et monopoles fiscaux (art. 27 à 211)](#39)
+        - [Chapitre premier : Boissons (art. 27 à 193)](#40)
+          - [Section I : Production des alcools (art. 27 à 91)](#41)
+            - [I : Réglementation des alambics (art. 27 à 33)](#42)
+            - [III : Bouilleurs de cru (art. 37 à 56)](#43)
+              - [Généralités. (art. 37)](#44)
+              - [2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation (art. 38 à 47)](#45)
+              - [Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation. (art. 39 à 40)](#46)
+              - [Bouilleurs de cru faisant distiller dans un atelier public. (art. 48 à 50)](#47)
+              - [3° : Bouilleurs de cru faisant distiller dans un atelier public (art. 49 à 53)](#48)
+              - [4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale (art. 55)](#49)
+              - [Bouilleurs de cru distillant en brûlerie coopérative ou syndicale. (art. 54)](#50)
+              - [5° : Dispositions communes (art. 56)](#51)
+            - [IV : Règlement des distilleries (art. 57 à 91)](#52)
+              - [1° : Généralités (art. 57)](#53)
+              - [Régime général. (art. 58 à 75)](#54)
+              - [2° : Régime général (art. 72 à 78)](#55)
+              - [3° : Régime spécial (art. 79 à 88)](#56)
+              - [Régime spécial (art. 81 à 87)](#57)
+              - [Dispositions communes (art. 89 à 90)](#58)
+              - [4° : Dispositions communes. (art. 91)](#59)
+          - [Section II : Circulation (art. 156)](#60)
+            - [II : Dispositions spéciales aux alcools (art. 156)](#61)
+              - [Epalement des réservoirs (art. 156)](#62)
+          - [Section III : Commerce (art. 159 à 164)](#63)
+            - [I : Calcul des déductions. (art. 159)](#64)
+            - [II : Spiritueux composés - Déduction complémentaire. (art. 160 à 164)](#65)
+          - [Section IV : Régimes particuliers (art. 166 à 193)](#66)
+            - [I : Alcools dénaturés (art. 166 à 193)](#67)
+              - [1° : Dénaturation des alcools par le procédé général (art. 166 à 182)](#68)
+              - [Dénaturation des alcools par le procédé général. (art. 165 à 184)](#69)
+              - [2° : Dénaturation des alcools par un procédé spécial (art. 187 à 188)](#70)
+              - [Dénaturation des alcools par un procédé spécial. (art. 186 à 189)](#71)
+              - [3° : Emploi de l'alcool sans dénaturation préalable (art. 191)](#72)
+              - [Emploi de l'alcool sans dénaturation préalable. (art. 190)](#73)
+              - [Dispositions diverses. (art. 193)](#74)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 206 à 220)](#75)
+          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 206)](#76)
+            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux. (art. 206)](#77)
+          - [Exportation (art. 213 à 220)](#78)
+            - [II : Bijoux à tous titres (art. 213 à 220)](#79)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 207 à 211)](#80)
+          - [Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne (art. 207 à 211)](#81)
+            - [I : Ouvrages d'or, d'argent et de platine aux titres légaux (art. 207 à 211)](#82)
 # ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=1></a>
 
 ## IMPOTS D'ETAT<a id=2></a>
@@ -379,28 +379,18 @@ _Nouveaux textes_:
 
 ###### Article 23 V 12
 
-Les déclarations sont vérifiées et peuvent être rectifiées dans les conditions prévues aux articles 55, 56, 58, 1649
-quinquies A et 1649 septies à 1649 septies B du code général des impôts.
+Les déclarations sont vérifiées et peuvent être rectifiées dans les conditions prévues par le livre des procédures fiscales
+en ce qui concerne le contrôle de la comptabilité des entreprises industrielles et commerciales.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1649 quinquies A
-  - CGI 1649 septies
-  - CGI 1649 septies A
-  - CGI 1649 septies B
-  - CGI 55
-  - CGI 56
-  - CGI 58
 
 _Nouveaux textes_:
 
   - CGIAN2 163 octies IV
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°81-866 1981-09-15
 
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES<a id=5></a>
@@ -447,165 +437,6 @@ _Nouveaux textes_:
 
 ##### PRODUCTION DES ALCOOLS.<a id=10></a>
 
-###### Article 28
-
-Les fabricants et marchands visés à l'article 27 sont tenus, dès qu'ils en sont requis, d'assister ou de se faire représenter
-par un délégué aux vérifications que les agents des impôts sont autorisés à effectuer dans leurs ateliers, magasins et autres
-locaux professionnels.
-
-Ils doivent faciliter ces vérifications et déclarer, par eux-mêmes ou par leurs délégués, les quantités et espèces ainsi que
-la capacité ou les dimensions des appareils et portions d'appareils en leur possession.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 27
-
-_Transféré par_:
-
-  - Décret n°81-860 du 15 septembre 1981 - art. 1 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales - art. R*29-1 (V)
-
-
-###### Article 31
-
-Les agents des impôts sont autorisés à déterminer, par jaugeage, la contenance des alambics soumis à la formalité du
-poinçonnage. En cas, soit d'impossibilité de procéder par voie de jaugeage, soit de contestation sur les résultats de
-l'opération, la contenance est constatée par empotement et le détenteur est tenu de fournir, par lui-même ou par ses
-préposés, l'eau et la main-d'oeuvre nécessaires pour cette opération, qui est dirigée en sa présence par les agents, et dont
-il est dressé procès-verbal.
-
-Dans l'intervalle des travaux de distillation, la constatation de la contenance des appareils peut être renouvelée toutes les
-fois que le service le juge utile.
-
-Pour les appareils à marche continue, les agents peuvent, au cours des travaux de distillation, et toutes les fois qu'ils le
-jugent utile, procéder à des constatations en vue de s'assurer de leur force productive.
-
-**Liens relatifs à cet article**
-
-_Transféré par_:
-
-  - Décret n°81-860 du 15 septembre 1981 - art. 3, v. init.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Nouveaux textes_:
-
-  - LPF R29-2
-
-
-###### Article 37
-
-Les articles 38 à 56 s'appliquent aux propriétaires récoltants qui :
-
-1° Exception faite du sucrage des vendanges ou des moûts de raisins opéré dans les limites et conditions légales, n'ajoutent
-à leurs récoltes aucun produit susceptible d'en augmenter la teneur en alcool;
-
-2° Ne reçoivent du dehors aucune quantité de matières premières de la nature de celles qu'ils entendent distiller, à moins
-qu'ils ne déclarent au préalable ces matières au bureau de déclarations de la direction générale des impôts et ne s'engagent
-à les représenter au service des impôts, jusqu'à l'achèvement de leurs distillations.
-
-Sont soumis aux règles tracées par les articles 57 à 91 :
-
-a  Les propriétaires récoltants ne remplissant pas ces conditions;
-
-b  Ceux qui exercent, par eux-mêmes ou par l'intermédiaire d'associés, la profession de débitant ou de marchand en gros
-d'alcools, dans le canton du lieu de distillation et les communes limitrophes de ce canton;
-
-c  Les bouilleurs de cru convaincus d'avoir enlevé ou laissé enlever de chez eux des spiritueux sans expédition ou avec une
-expédition inapplicable et qui ont été privés, par décision judiciaire ou transaction, du bénéfice du régime des bouilleurs
-de cru pour toute la durée de la campagne en cours et de la campagne suivante.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 38 A CGIAN1 56
-  - CGIAN1 57 A CGIAN1 91
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 326 (V)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 43
-
-Les bouilleurs doivent assister ou se faire représenter par un délégué aux vérifications opérées par le service en
-application de l'article 323 du code général des impôts. Ils doivent faciliter ces vérifications, fournir à cet effet la
-main-d'oeuvre nécessaire et sont tenus notamment :
-
-1° De représenter à toute réquisition des agents les ampliations des déclarations faites au bureau de déclarations de la
-direction générale des impôts ainsi que le registre prévu à l'article 40; 
-
-2° De déclarer à ces agents l'espèce et la quantité des eaux-de-vie fabriquées et des matières premières non encore
-distillées, en désignant l'emplacement de ces différents produits.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 323
-  - CGIAN1 40
-
-_Transféré par_:
-
-  - Décret n°81-860 du 15 septembre 1981 - art. 3, v. init.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales - art. R. 30-1
-
-
-###### Article 64
-
-La précision et le fonctionnement des compteurs font l'objet de vérifications périodiques de la part des agents habilités des
-impôts. Ces vérifications peuvent être opérées avec le concours des agents du service des instruments de mesure.
-
-L'exploitant peut demander la vérification des compteurs installés dans sa distillerie lorsqu'aucune vérification n'a été
-opérée depuis un an au moins ou lorsque les quantités produites indiquées par les compteurs diffèrent de plus 0,5 % de celles
-résultant de ses estimations. La demande, adressée à cet effet aux agents habilités des impôts, doit mentionner le motif
-retenu ainsi que la date à partir de laquelle une anomalie a été constatée.
-
-Les opérations de vérification sont faites à la diligence des agents habilités des impôts. L'exploitant est informé de la
-date fixée pour ces opérations; il est tenu d'y assister ou de s'y faire représenter.
-
-Si l'exploitant désire que la vérification se déroule en présence des agents du service des instruments de mesure, il doit le
-préciser dans sa demande en s'engageant à payer les frais qui découleront de cette intervention.
-
-**Liens relatifs à cet article**
-
-_Transféré par_:
-
-  - Décret n°81-860 du 15 septembre 1981 - art. 3, v. init.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales - art. R.* 32-1
-
-
 ###### Article 65
 
 Quinze jours au moins avant le début des travaux de chaque campagne, l'exploitant doit faire tenir aux agents des impôts, qui
@@ -629,99 +460,6 @@ _Cité par_:
   - Code général des impôts annexe 1, CGIAN1. - art. 81 (V)
   - Code général des impôts, CGI. - art. 312 (V)
   - Code général des impôts, CGI. - art. 342 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 66
-
-Les inventaires et vérifications prévus au présent règlement sont opérés par les agents des impôts selon les règles définies
-à l'article 341 du code général des impôts. Pour ces opérations, les exploitants des distilleries sont tenus de se conformer
-aux prescriptions prévues pour les marchands en gros à l'article 492 de ce code. Ils doivent par ailleurs fournir la main-
-d'oeuvre et les instruments nécessaires.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 341
-  - CGI 492
-
-_Transféré par_:
-
-  - Décret n°81-860 du 15 septembre 1981 - art. 3, v. init.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-  - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales R32-2
-
-
-###### Article 67
-
-Dès la mise en service de l'installation réalisée en conformité avec les conditions d'aménagement prévues aux articles 60 à
-62, les alcools produits sont pris en charge d'après les indications des compteurs.
-
-L'exploitant est tenu d'assister ou de se faire représenter aux opérations de relevés de ces appareils effectuées par les
-agents des impôts.
-
-Les prises en charge ainsi opérées sont corrigées lorsque le contrôle technique des compteurs effectué dans l'un des cas
-prévus à l'article 64 fait apparaître une discordance de plus de 0,5 % entre les indications des appareils et les quantités
-d'alcool réellement produites.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 60
-  - CGIAN1 61
-  - CGIAN1 62
-  - CGIAN1 64
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 342 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 79
-
-Pour les distilleries soumises au régime spécial prévu à l'article 57, il est fait application de plein droit des
-dispositions des articles 58, 59, 60, 66, 70, 71, 72, 74, 76 et 77 ainsi que des dispositions particulières prévues aux
-articles 80 à 88.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 57, 58, 59, 60, 66, 70, 71, 72, 74, 76, 77, 80, 81, 82, 83, 84, 85, 86, 87, 88
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 89
-
-Les registres mis par l'administration à la disposition des exploitants de distillerie pour recevoir les déclarations prévues
-au présent règlement doivent être tenus sans blanc, surcharge ou rature.     Ils doivent demeurer constamment à la
-disposition des agents des impôts et être conservés en bon état jusqu'à l'expiration du délai prévu à l'article 2002 bis du
-code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 2002 bis
 
 **Liens**:
 
@@ -1090,102 +828,6 @@ _Nouveaux textes_:
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 231
-
-Les éclaircissements et justifications que le redevable est tenu de fournir au sujet des titres, valeurs ou créances non
-énoncés dans la déclaration de succession et entrant dans les prévisions de l'article 752 du code général des impôts, peuvent
-lui être demandés, soit verbalement, soit par simple avertissement, soit par lettre recommandée avec avis de réception; dans
-ce dernier cas, la lettre valant mise en demeure reproduit le texte complet de l'article précité; elle fait mention de la
-propriété ayant appartenu au défunt sur les biens considérés, de la perception des revenus, de l'opération ou des opérations
-effectuées par ce dernier moins d'un an avant son décès et entrant dans les prévisions de l'article 752, premier alinéa, du
-code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 752 AL. 1
-
-_Transféré par_:
-
-  - Décret n°81-860 du 15 septembre 1981 - art. 3, v. init.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales, art. R. 19-1
-
-
-###### Article 232
-
-Lorsque le redevable aura refusé de répondre à une demande formulée verbalement ou par simple avertissement ou encore si la
-réponse faite à cette demande est considérée comme insuffisante par le service des impôts, une mise en demeure est, comme il
-est prévu à l'article 231, adressée au redevable par lettre recommandée avec avis de réception, contenant les mentions
-prévues audit article.
-
-Sans préjudice des mesures conservatoires utiles, un délai de trois mois est imparti au redevable :
-
-- soit pour établir, dans les formes compatibles avec la procédure écrite en matière d'enregistrement ou, s'il y a lieu, au
-moyen d'un acte ayant acquis date certaine avant l'ouverture de la succession, que les titres, valeurs et créances sus-
-énoncés étaient sortis de l'hérédité;
-
-- soit pour verser les droits de mutation par décès et les pénalités afférents aux titres et valeurs non déclarés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 231
-
-_Transféré par_:
-
-  - Décret n°81-860 du 15 septembre 1981 - art. 3, v. init.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales - art. R. 19-1
-
-
-###### Article 233
-
-Passé le délai de trois mois prévu à l'article 232 et faute par le redevable d'avoir rapporté la preuve contraire ou effectué
-le paiement, le recouvrement des droits de mutation par décès sera poursuivi contre lui.
-
-Si le redevable n'a pas répondu à la lettre recommandée dans le délai de trois mois ou si sa réponse constitue un refus de
-répondre, la preuve contraire réservée par l'article 752 du code général des impôts ne sera plus recevable.
-
-En cas de paiement, le redevable peut demander, dans les conditions prévues aux articles 1931 et 1932 du code général des
-impôts, le remboursement des sommes qu'il prétendrait avoir versées indûment.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1931
-  - CGI 1932
-  - CGI 752
-  - CGIAN1 232
-
-_Transféré par_:
-
-  - Décret n°81-860 du 15 septembre 1981 - art. 3, v. init.
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales R19-1 (al. 1 et 2 du CGIAN1 233)
-
-**Liens**:
-
-  - HISTO: date d'entrée en vigueur 1 JANVIER 1982)
-
-
 ### DROITS DE TIMBRE<a id=15></a>
 
 #### DROITS DE TIMBRE PROPREMENT DITS.<a id=16></a>
@@ -1236,22 +878,22 @@ _Nouveaux textes_:
 Les récépissés, bulletins d'expédition ou autres pièces en tenant lieu, visés à l'article 935 du code général des impôts
 sont, après le transport effectué, réunis soit au siège social, soit au lieu où les écritures sont centralisées.
 
-Ils y sont conservés pendant la durée du délai prévu à l'article 2002 bis du code général des impôts.
+Ils y sont conservés pendant la durée du délai prévu à l'article L. 82 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 2002 bis
   - CGI 935
+  - CGI L82
 
 _Nouveaux textes_:
 
   - CGIAN2 303
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 238
@@ -2292,7 +1934,8 @@ _Nouveaux textes_:
 
 Lorsque la taxe d'enlèvement des ordures ménagères est établie au nom d'un contribuable autre que celui qui en était passible
 au 1er janvier de l'année de l'imposition, la mutation de cote peut être prononcée soit d'office, dans les conditions prévues
-à l'article 1951 du code général des impôts, soit sur la réclamation de l'un ou l'autre des intéressés.
+aux articles R. 211-1 et R. 211-2 du livre des procédures fiscales, soit sur la réclamation de l'un ou l'autre des
+intéressés.
 
 Les décisions prononçant des mutations de cote ont effet tant pour l'année qu'elles concernent que pour les années suivantes,
 jusqu'à ce que les rectifications nécessaires aient été effectuées dans les rôles.
@@ -2301,15 +1944,16 @@ jusqu'à ce que les rectifications nécessaires aient été effectuées dans les
 
 _Cite_:
 
-  - CGI 1951
+  - CGI R211-1
+  - CGI R211-2
 
 _Nouveaux textes_:
 
   - CGIAN2 316 A
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 289
@@ -2603,11 +2247,51 @@ _Nouveaux textes_:
 
 ## DISPOSITIONS COMMUNES AUX IMPOTS D'ETAT ET IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES<a id=30></a>
 
-### ASSIETTE ET CONTROLE DE L'IMPOT<a id=31></a>
+### ASSIETTE ET CONTROLE DE L'ETAT<a id=31></a>
 
 #### OBLIGATIONS DES CONTRIBUABLES<a id=32></a>
 
 ##### BONS DE REMIS.<a id=33></a>
+
+###### Article 310 quinquies
+
+Le transport par voie publique de produits figurant sur une liste établie par arrêté du ministre de l'économie et des
+finances (1), après consultation des organisations professionnelles intéressées doit être accompagné d'un bon de remis, dans
+les conditions fixées par l'article 1649 ter du code général des impôts et par les articles 310 sexies à 310 octies, 310
+decies à 310 terdecies de la présente annexe et les articles R. 24-1 et R. 213-3 du livre des procédures fiscales.
+
+Ces dispositions ne s'appliquent pas au transport de ces produits par un particulier pour les besoins de sa propre
+consommation.
+
+(1) Annexe IV, art. 164 F bis à 164 F octodecies.
+
+Voir également Annexe II, art. 368 A à 368 C.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1649 ter
+  - CGI R213-3
+  - CGI R24-1
+  - CGIAN1 310 sexies, 310 septies, 310 octies, 310 decies, 310 undecies, 310 duodecies, 310 terdecies
+  - CGIAN2 368 A, 368 B, 368 C
+  - CGIAN4 164 F bis A CGIAN4 164 F octodecies
+
+_Nouveaux textes_:
+
+  - CGIAN2 368
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+
+### ASSIETTE ET CONTROLE DE L'IMPOT<a id=34></a>
+
+#### OBLIGATIONS DES CONTRIBUABLES<a id=35></a>
+
+##### BONS DE REMIS.<a id=36></a>
 
 ###### Article 310 decies
 
@@ -2651,29 +2335,6 @@ _Nouveaux textes_:
   - HISTO: EDITION 1979-07-01
 
 
-###### Article 310 nonies
-
-Les bons de remis doivent être présentés en cours de transport à toute réquisition des agents désignés à l'article 325.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN1 325
-
-_Transféré par_:
-
-  - Décret n°81-860 du 15 septembre 1981 - art. 3, v. init.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales - art. R.* 24-1
-
-
 ###### Article 310 octies
 
 Les bons de remis peuvent être constitués soit par des documents fournis par les expéditeurs, comportant les énonciations
@@ -2689,38 +2350,6 @@ _Cite_:
 _Nouveaux textes_:
 
   - CGIAN2 368 C
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 310 quinquies
-
-Le transport par voie publique de produits figurant sur une liste établie par arrêté du ministre de l'économie et des
-finances (1), après consultation des organisations professionnelles intéressées doit être accompagné d'un bon de remis, dans
-les conditions fixées par l'article 1649 ter du code général des impôts et par les articles 310 sexies à 310 terdecies et 325
-de la présente annexe.
-
-Ces dispositions ne s'appliquent pas au transport de ces produits par un particulier pour les besoins de sa propre
-consommation.
-
-1)  Annexe IV, art. 164 F bis à 164 F octodecies.
-
-Voir également Annexe II, art. 368 A à 368 C.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1649 ter
-  - CGIAN1 310 sexies, 310 septies, 310 octies, 310 nonies, 310 decies, 310 undecies, 310 duodecies, 310 terdecies, 325
-  - CGIAN2 368 A, 368 B, 368 C
-  - CGIAN4 164 F bis A 164 F octodecies
-
-_Nouveaux textes_:
-
-  - CGIAN2 368
 
 **Liens**:
 
@@ -2797,34 +2426,36 @@ _Cite_:
 ###### Article 310 undecies
 
 L'arrêté prévu à l'article 310 quinquies peut dispenser partiellement, pour certains produits, des formalités et obligations
-prévues par les articles 310 quinquies à 310 decies.
+prévues par les articles 310 quinquies à 310 octies et 310 decies de la présente annexe et par l'article R. 24-1 du livre des
+procédures fiscales.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - CGI R24-1
   - CGIAN1 310 quinquies, 310 sexies, 310 septies, 310 octies, 310 nonies, 310 decies
 
 _Nouveaux textes_:
 
   - CGIAN2 368 E
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°81-866 1981-09-15
 
 
-# Livre premier : Assiette et liquidation de l'impôt<a id=34></a>
+# Livre premier : Assiette et liquidation de l'impôt<a id=37></a>
 
-## Première partie : Impôts d'État<a id=35></a>
+## Première partie : Impôts d'État<a id=38></a>
 
-### Titre III : Contributions indirectes et monopoles fiscaux<a id=36></a>
+### Titre III : Contributions indirectes et monopoles fiscaux<a id=39></a>
 
-#### Chapitre premier : Boissons<a id=37></a>
+#### Chapitre premier : Boissons<a id=40></a>
 
-##### Section I : Production des alcools<a id=38></a>
+##### Section I : Production des alcools<a id=41></a>
 
-##### I : Réglementation des alambics<a id=39></a>
+##### I : Réglementation des alambics<a id=42></a>
 
 ###### Article 27
 
@@ -2942,9 +2573,53 @@ La destruction ne peut avoir lieu qu'en présence des agents, qui en dressent pr
   - HISTO: EDITION 1979-07-01
 
 
-##### III : Bouilleurs de cru<a id=40></a>
+##### III : Bouilleurs de cru<a id=43></a>
 
-##### 2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation<a id=41></a>
+##### Généralités.<a id=44></a>
+
+###### Article 37
+
+Les articles 38 à 42, 44 à 56 et l'article R. 30-1 du livre des procédures fiscales s'appliquent aux propriétaires récoltants
+qui :
+
+1° Exception faite du sucrage des vendanges ou des moûts de raisins opéré dans les limites et conditions légales, n'ajoutent
+à leurs récoltes aucun produit susceptible d'en augmenter la teneur en alcool ;
+
+2° Ne reçoivent du dehors aucune quantité de matières premières de la nature de celles qu'ils entendent distiller, à moins
+qu'ils ne déclarent au préalable ces matières au bureau de déclarations de la direction générale des impôts et ne s'engagent
+à les représenter au service des impôts, jusqu'à l'achèvement de leurs distillations.
+
+Sont soumis aux règles tracées par les articles 57 à 91 :
+
+a. Les propriétaires récoltants ne remplissant pas ces conditions ;
+
+b. Ceux qui exercent, par eux-mêmes ou par l'intermédiaire d'associés, la profession de débitant ou de marchand en gros
+d'alcools, dans le canton du lieu de distillation et les communes limitrophes de ce canton ;
+
+c. Les bouilleurs de cru convaincus d'avoir enlevé ou laissé enlever de chez eux des spiritueux sans expédition ou avec une
+expédition inapplicable et qui ont été privés, par décision judiciaire ou transaction, du bénéfice du régime des bouilleurs
+de cru pour toute la durée de la campagne en cours et de la campagne suivante.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI R30-1
+  - CGIAN1 38 A CGIAN1 42
+  - CGIAN1 44 A CGIAN1 56
+  - CGIAN1 57 A CGIAN1 91
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 326 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
+
+
+##### 2° : Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation<a id=45></a>
 
 ###### Article 38
 
@@ -3142,7 +2817,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation.<a id=42></a>
+##### Bouilleurs de cru se livrant eux-mêmes aux opérations de distillation.<a id=46></a>
 
 ###### Article 39
 
@@ -3226,7 +2901,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Bouilleurs de cru faisant distiller dans un atelier public.<a id=43></a>
+##### Bouilleurs de cru faisant distiller dans un atelier public.<a id=47></a>
 
 ###### Article 48
 
@@ -3289,7 +2964,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-##### 3° : Bouilleurs de cru faisant distiller dans un atelier public<a id=44></a>
+##### 3° : Bouilleurs de cru faisant distiller dans un atelier public<a id=48></a>
 
 ###### Article 49
 
@@ -3358,7 +3033,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### 4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale<a id=45></a>
+##### 4° : Bouilleurs de cru distillant en brûlerie coopérative ou syndicale<a id=49></a>
 
 ###### Article 55
 
@@ -3386,7 +3061,7 @@ _Cite_:
   - CGIAN1 47
 
 
-##### Bouilleurs de cru distillant en brûlerie coopérative ou syndicale.<a id=46></a>
+##### Bouilleurs de cru distillant en brûlerie coopérative ou syndicale.<a id=50></a>
 
 ###### Article 54
 
@@ -3416,7 +3091,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 5° : Dispositions communes<a id=47></a>
+##### 5° : Dispositions communes<a id=51></a>
 
 ###### Article 56
 
@@ -3446,9 +3121,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (V)
 
 
-##### IV : Règlement des distilleries<a id=48></a>
+##### IV : Règlement des distilleries<a id=52></a>
 
-##### 1° : Généralités<a id=49></a>
+##### 1° : Généralités<a id=53></a>
 
 ###### Article 57
 
@@ -3493,7 +3168,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Régime général.<a id=50></a>
+##### Régime général.<a id=54></a>
 
 ###### Article 58
 
@@ -3624,6 +3299,36 @@ effet.
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+
+
+###### Article 67
+
+Dès la mise en service de l'installation réalisée en conformité avec les conditions d'aménagement prévues aux articles 60 à
+62, les alcools produits sont pris en charge d'après les indications des compteurs.
+
+L'exploitant est tenu d'assister ou de se faire représenter aux opérations de relevés de ces appareils effectuées par les
+agents des impôts.
+
+Les prises en charge ainsi opérées sont corrigées lorsque le contrôle technique des compteurs effectué dans l'un des cas
+prévus à l'article R. 32-1 du livre des procédures fiscales fait apparaître une discordance de plus de 0,5 % entre les
+indications des appareils et les quantités d'alcool réellement produites.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI R32-1
+  - CGIAN1 60
+  - CGIAN1 61
+  - CGIAN1 62
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 342 (V)
 
 
 ###### Article 68
@@ -3802,7 +3507,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 51 septies J (V)
 
 
-##### 2° : Régime général<a id=51></a>
+##### 2° : Régime général<a id=55></a>
 
 ###### Article 72
 
@@ -3877,7 +3582,29 @@ la qualité de l'alcool obtenu.
   - HISTO: EDITION 1979-07-01
 
 
-##### 3° : Régime spécial<a id=52></a>
+##### 3° : Régime spécial<a id=56></a>
+
+###### Article 79
+
+Pour les distilleries soumises au régime spécial prévu à l'article 57, il est fait application de plein droit des
+dispositions des articles 58 à 60, 70 à 72, 74, 76 et 77 et de l'article R. 32-2 du livre des procédures fiscales ainsi que
+des dispositions particulières prévues aux articles 80 à 88.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN1 57, 58, 59, 60, 70, 71, 72, 74, 76, 77, 80 à 88
+  - Livre des procédures fiscales R32-2
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+**Liens**:
+
+  - HISTO: Edition du 15 septembre 1981
+
 
 ###### Article 80
 
@@ -3979,7 +3706,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Régime spécial<a id=53></a>
+##### Régime spécial<a id=57></a>
 
 ###### Article 81
 
@@ -4070,7 +3797,26 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Dispositions communes<a id=54></a>
+##### Dispositions communes<a id=58></a>
+
+###### Article 89
+
+Les registres mis par l'administration à la disposition des exploitants de distillerie pour recevoir les déclarations prévues
+au présent règlement doivent être tenus sans blanc, surcharge ou rature.
+
+Ils doivent demeurer constamment à la disposition des agents des impôts et être conservés en bon état jusqu'à l'expiration du
+délai prévu à l'article L. 82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI L82
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
 
 ###### Article 90
 
@@ -4086,7 +3832,7 @@ L'exploitant est tenu de se conformer aux indications reçues.
   - HISTO: EDITION 1979-07-01
 
 
-##### 4° : Dispositions communes.<a id=55></a>
+##### 4° : Dispositions communes.<a id=59></a>
 
 ###### Article 91
 
@@ -4108,11 +3854,11 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Section II : Circulation<a id=56></a>
+##### Section II : Circulation<a id=60></a>
 
-##### II : Dispositions spéciales aux alcools<a id=57></a>
+##### II : Dispositions spéciales aux alcools<a id=61></a>
 
-##### Epalement des réservoirs<a id=58></a>
+##### Epalement des réservoirs<a id=62></a>
 
 ###### Article 156
 
@@ -4125,9 +3871,9 @@ Toute modification de la contenance des réservoirs doit être précédée d'une
 
 
 
-##### Section III : Commerce<a id=59></a>
+##### Section III : Commerce<a id=63></a>
 
-##### I : Calcul des déductions.<a id=60></a>
+##### I : Calcul des déductions.<a id=64></a>
 
 ###### Article 159
 
@@ -4151,7 +3897,7 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### II : Spiritueux composés - Déduction complémentaire.<a id=61></a>
+##### II : Spiritueux composés - Déduction complémentaire.<a id=65></a>
 
 ###### Article 160
 
@@ -4253,11 +3999,11 @@ _Abrogé par_:
   - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
 
 
-##### Section IV : Régimes particuliers<a id=62></a>
+##### Section IV : Régimes particuliers<a id=66></a>
 
-##### I : Alcools dénaturés<a id=63></a>
+##### I : Alcools dénaturés<a id=67></a>
 
-##### 1° : Dénaturation des alcools par le procédé général<a id=64></a>
+##### 1° : Dénaturation des alcools par le procédé général<a id=68></a>
 
 ###### Article 166
 
@@ -4443,7 +4189,7 @@ rectification, ou ceux qui sont affectés à la fabrication ou au commerce en gr
 
 
 
-##### Dénaturation des alcools par le procédé général.<a id=65></a>
+##### Dénaturation des alcools par le procédé général.<a id=69></a>
 
 ###### Article 165
 
@@ -4643,7 +4389,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 2° : Dénaturation des alcools par un procédé spécial<a id=66></a>
+##### 2° : Dénaturation des alcools par un procédé spécial<a id=70></a>
 
 ###### Article 187
 
@@ -4682,7 +4428,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Dénaturation des alcools par un procédé spécial.<a id=67></a>
+##### Dénaturation des alcools par un procédé spécial.<a id=71></a>
 
 ###### Article 186
 
@@ -4727,7 +4473,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### 3° : Emploi de l'alcool sans dénaturation préalable<a id=68></a>
+##### 3° : Emploi de l'alcool sans dénaturation préalable<a id=72></a>
 
 ###### Article 191
 
@@ -4736,7 +4482,7 @@ transformé.
 
 
 
-##### Emploi de l'alcool sans dénaturation préalable.<a id=69></a>
+##### Emploi de l'alcool sans dénaturation préalable.<a id=73></a>
 
 ###### Article 190
 
@@ -4767,7 +4513,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Dispositions diverses.<a id=70></a>
+##### Dispositions diverses.<a id=74></a>
 
 ###### Article 193
 
@@ -4784,11 +4530,11 @@ dépositaires.
   - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=71></a>
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=75></a>
 
-##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=72></a>
+##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=76></a>
 
-##### I : Ouvrages d'or, d'argent et de platine aux titres légaux.<a id=73></a>
+##### I : Ouvrages d'or, d'argent et de platine aux titres légaux.<a id=77></a>
 
 ###### Article 206
 
@@ -4811,9 +4557,9 @@ _Codifié par_:
   - HISTO: EDITION 1979-07-01
 
 
-##### Exportation<a id=74></a>
+##### Exportation<a id=78></a>
 
-##### II : Bijoux à tous titres<a id=75></a>
+##### II : Bijoux à tous titres<a id=79></a>
 
 ###### Article 213
 
@@ -4886,11 +4632,11 @@ _Cite_:
   - Code des instruments monétaires et des médailles - art. 9 (M)
 
 
-#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=76></a>
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=80></a>
 
-##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=77></a>
+##### Section I : Exportation ou livraison à destination d'un autre Etat membre de l'Union européenne<a id=81></a>
 
-##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=78></a>
+##### I : Ouvrages d'or, d'argent et de platine aux titres légaux<a id=82></a>
 
 ###### Article 207
 
@@ -5005,51 +4751,5 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°95-1137 du 23 octobre 1995 - art. 8 () JORF 28 octobre 1995
-
-
-# RECOUVREMENT DE L'IMPOT<a id=79></a>
-
-## PROCEDURES<a id=80></a>
-
-### CONTENTIEUX DE LA REPRESSION<a id=81></a>
-
-#### AGENTS APTES A VERBALISER.<a id=82></a>
-
-###### Article 325
-
-Les agents de la direction générale des impôts sont habilités à constater, comme en matière de contributions indirectes, les
-infractions aux dispositions des articles 1649 ter-1, 1649 ter A, 1649 ter B et 1649 ter C du code général des impôts et à
-celles des articles 310 quinquies à 310 terdecies.
-
-Sont également habilités à verbaliser à la circulation :
-
-- Les agents de la direction générale des douanes et droits indirects;
-
-- Les agents de la direction générale du commerce intérieur et des prix;
-
-- Les agents habilités à constater les infractions en matière de police de la circulation et du roulage et en matière de
-coordination des transports.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1649 ter 1
-  - CGI 1649 ter A
-  - CGI 1649 ter B
-  - CGI 1649 ter C
-  - CGIAN1 310 quinquies, 310 sexies, 310 septies, 310 octies, 310 nonies, 310 decies, 310 undecies, 310 duodecies, 310 terdecies
-
-_Transféré par_:
-
-  - Décret n°81-860 du 15 septembre 1981 - art. 3, v. init.
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales - art. R. 213-2
 
 
