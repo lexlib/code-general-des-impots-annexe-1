@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2016-06-13
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 220)](#1)
     - [Première partie : Impôts d'État (art. 27 à 220)](#2)
@@ -15,7 +15,7 @@ Version Consolidée au 2007-01-01
               - [5° : Dispositions communes (art. 56)](#12)
             - [IV : Règlement des distilleries (art. 57 à 87)](#13)
               - [1° : Généralités (art. 57)](#14)
-              - [2° : Régime général (art. 58 à 77)](#15)
+              - [2° : Régime général (art. 58 à 76)](#15)
               - [3° : Régime spécial (art. 79 à 87)](#16)
           - [Section II : Circulation (art. 156)](#17)
             - [II : Dispositions spéciales aux alcools (art. 156)](#18)
@@ -875,60 +875,35 @@ _Cité par_:
   - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
 
 
-###### Article 77
-
-L'exploitant est tenu, dans un délai d'un mois à compter du jour où il en a été requis, de supprimer, au moyen d'une
-séparation agréée par le directeur régional des douanes et droits indirects territorialement compétent, les communications
-interdites par l'article 336 du code général des impôts.
-
-**Nota:**
-
-En conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015, cet article devient sans objet.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°2016-935 du 7 juillet 2016, article 7
-
-_Modifié par_:
-
-  - Décret n°2006-532 du 11 mai 2006 - art. 1 () JORF 12 mai 2006
-
-**Liens**:
-
-  - PERIME: Décret n°2016-775 du 10 juin 2016 - art. 2
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 336
-
-
 ##### 3° : Régime spécial<a id=16></a>
 
 ###### Article 79
 
 Pour les distilleries soumises au régime spécial prévu à l'article 57, il est fait application de plein droit des
-dispositions des articles 58,59
-,70,71,74,76 et 77 et de l'article R. 32-2 du livre des procédures fiscales ainsi que des dispositions particulières prévues
+dispositions des articles 58, 59
+, 70, 71, 74 et 76 et de l'article R. 32-2 du livre des procédures fiscales ainsi que des dispositions particulières prévues
 aux articles 80 à 85 et 87.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+  - Décret n°2016-775 du 10 juin 2016 - art. 2
 
 _Cite_:
 
-  - Code général des impôts annexe 1, CGIAN1. - art. 57 (V)
-  - Code général des impôts annexe 1, CGIAN1. - art. 58 (V)
-  - Code général des impôts annexe 1, CGIAN1. - art. 70 (V)
-  - Code général des impôts annexe 1, CGIAN1. - art. 74 (V)
-  - Code général des impôts annexe 1, CGIAN1. - art. 76 (V)
-  - Code général des impôts annexe 1, CGIAN1. - art. 80 (V)
-  - Code général des impôts annexe 1, CGIAN1. - art. 87 (V)
-  - Livre des procédures fiscales - art. R*32-2 (V)
+  - Code général des impôts annexe 1, CGIAN1. - art. 57
+  - Code général des impôts annexe 1, CGIAN1. - art. 58
+  - Code général des impôts annexe 1, CGIAN1. - art. 70
+  - Code général des impôts annexe 1, CGIAN1. - art. 74
+  - Code général des impôts annexe 1, CGIAN1. - art. 76
+  - Code général des impôts annexe 1, CGIAN1. - art. 80
+  - Code général des impôts annexe 1, CGIAN1. - art. 87
+  - Livre des procédures fiscales - art. R*32-2
 
 
 ###### Article 80
