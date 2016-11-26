@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 2016-07-10
+Version Consolidée au 2016-11-27
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 220)](#1)
     - [Première partie : Impôts d'État (art. 27 à 220)](#2)
@@ -629,25 +629,28 @@ _Cite_:
 
 ###### Article 59
 
-Avant toute utilisation d'un appareil ou récipient affecté à la production ou au logement d'alcools ou de boissons passibles
-de droits indirects, l'exploitant doit remettre au service des douanes et droits indirects le certificat de jaugeage de ce
-récipient établi par le service des instruments de mesure. Ce certificat doit être renouvelé à l'expiration de sa période de
-validité. 
+Les récipients destinés à la production ou au stockage des produits intermédiaires et des alcools mentionnés aux articles 402
+bis et 403 du code général des impôts doivent être pourvus, aux frais de l'exploitant et avant toute utilisation, d'un
+certificat de jaugeage délivré et renouvelé dans les conditions déterminées par le décret n° 2001-387 du 3 mai 2001 relatif
+au contrôle des instruments de mesure. Ce certificat est transmis à l'administration des douanes et droits indirects.
 
-En cas de déformation, de modification ou de réparation susceptibles de changer la capacité d'un récipient, l'utilisation en
-est provisoirement interdite. Celle-ci ne peut être reprise qu'après établissement et remise d'un nouveau certificat de
-jaugeage. 
+Ces récipients doivent permettre le prélèvement d'un échantillon.
 
-Tous les récipients, y compris ceux dont la contenance est inférieure à dix hectolitres, doivent être pourvus, aux frais de
-l'exploitant, d'un dispositif de jaugeage agréé par l'administration. Ces récipients doivent, de plus, permettre le
-prélèvement d'un échantillon moyen sur toute la hauteur du liquide qu'ils contiennent.
+En cas de déformation, modification ou réparation susceptibles de changer la capacité d'un récipient, l'utilisation en est
+interdite jusqu'à l'établissement et la transmission à l'administration des douanes et droits indirects d'un nouveau
+certificat de jaugeage.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°2001-387 du 3 mai 2001 (V)
+  - Code général des impôts, CGI. - art. 402 bis (V)
+  - Code général des impôts, CGI. - art. 403 (V)
+
 _Modifié par_:
 
-  - Décret n°93-310 du 9 mars 1993 - art. 12 () JORF 11 mars 1993 en vigueur le 1er janvier 1993
-  - Décret n°93-310 du 9 mars 1993 - art. 64 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+  - Décret n°2016-1585 du 24 novembre 2016 - art. 1
 
 
 ###### Article 61
