@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 1  
-Version Consolidée au 2016-11-27
+Version Consolidée au 2017-07-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 27 à 220)](#1)
     - [Première partie : Impôts d'État (art. 27 à 220)](#2)
@@ -348,14 +348,14 @@ _Modifié par_:
 ###### Article 49
 
 Le transport des matières à distiller du domicile à la brûlerie et celui des eaux-de-vie de la brûlerie au domicile
-s'effectuent respectivement sous le lien de documents mentionnés au II de l'article 302 M du code général des impôts, après
+s'effectuent respectivement sous le lien de documents mentionnés à l'article 302 M ter du code général des impôts, après
 acquittement des droits ou bénéfice de l'allocation en franchise.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2000-739 du 1 août 2000 - art. 4 () JORF 4 août 2000
+  - Décret n°2016-1584 du 24 novembre 2016 - art. 1
 
 _Cité par_:
 
@@ -363,7 +363,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 302 M (V)
+  - Code général des impôts, CGI. - art. 302 M ter (VD)
 
 
 ###### Article 50
